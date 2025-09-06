@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   election-monitor:
-    build: .
+    build: downloader
     environment:
       - API_BASE_URL=https://valgresultat.no/api
       - DATA_PATH=/data
@@ -12,7 +12,7 @@ services:
     restart: unless-stopped
     
   cleanup:
-    build: .
+    build: downloader
     command: ["python", "cleanup.py"]
     environment:
       - DATA_PATH=/data
@@ -31,11 +31,3 @@ services:
       - "swarm.cronjob.schedule=0 0 * * *"  # Run daily at midnight
       - "swarm.cronjob.skip-running=true"
     
-  web-interface:
-    build: ./web
-    ports:
-      - "8080:80"  
-    volumes:
-      - ./data:/data:ro
-    depends_on:
-      - election-monitor
