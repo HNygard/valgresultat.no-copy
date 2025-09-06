@@ -148,18 +148,19 @@ class ElectionMonitor:
             url = self.endpoints[entity_type].format(year=year)
             entity_path = self.data_path / year / entity_type / 'norge'
         else:
-            # Parse entity ID components (now includes descriptive name)
-            base_id = '-'.join(entity_id.split('-')[:-1])  # Remove descriptive part
-            components = base_id.split('-')
+            # Parse entity ID components (using only IDs, no descriptive names)
+            components = entity_id.split('-')
             
             if entity_type == 'fylke':
                 url = self.endpoints[entity_type].format(year=year, fylke_nr=components[1])
+                entity_id = f"{components[0]}-{components[1]}"
             elif entity_type == 'kommune':
                 url = self.endpoints[entity_type].format(
                     year=year, 
                     fylke_nr=components[1],
                     kommune_nr=components[2]
                 )
+                entity_id = f"{components[0]}-{components[1]}-{components[2]}"
             elif entity_type == 'krets':
                 url = self.endpoints[entity_type].format(
                     year=year,
@@ -167,6 +168,7 @@ class ElectionMonitor:
                     kommune_nr=components[2],
                     krets_nr=components[3]
                 )
+                entity_id = f"{components[0]}-{components[1]}-{components[2]}-{components[3]}"
             entity_path = self.data_path / year / entity_type / entity_id
 
         # Fetch current data
