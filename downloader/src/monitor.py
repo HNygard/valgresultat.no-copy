@@ -5,7 +5,8 @@ import logging
 from datetime import datetime
 from time import sleep
 from pathlib import Path
-from typing import Dict, Optional
+from typing import Dict, Optional, List
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import requests
 from entities_scraper import EntitiesScraper
@@ -187,8 +188,21 @@ class ElectionMonitor:
             # First time download
             self._save_snapshot(data, entity_path, timestamp)
 
+    def process_entities_parallel(self, entity_type: str, entity_ids: List[str], year: str, max_workers: int = 10):
+        """Process a group of entities in parallel"""
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = [
+                executor.submit(self.process_entity, entity_type, entity_id, year)
+                for entity_id in entity_ids
+            ]
+            for future in as_completed(futures):
+                try:
+                    future.result()  # This will raise any exceptions that occurred
+                except Exception as e:
+                    logger.error(f"Error processing entity: {str(e)}")
+
     def run(self):
-        """Main monitoring loop"""
+        """Main monitoring loop with parallel processing"""
         last_run: Dict[str, float] = {}
         
         while True:
@@ -202,22 +216,25 @@ class ElectionMonitor:
                     self.process_entity('nasjonalt', 'norge', year)
                     last_run['nasjonalt'] = current_time
                 
-                # Process counties (fylke)
+                # Process counties (fylke) in parallel
                 if current_time - last_run.get('fylke', 0) >= self.schedules['fylke']:
-                    for fylke_id in year_config.get('fylke', []):
-                        self.process_entity('fylke', fylke_id, year)
+                    fylke_ids = year_config.get('fylke', [])
+                    if fylke_ids:
+                        self.process_entities_parallel('fylke', fylke_ids, year)
                     last_run['fylke'] = current_time
                 
-                # Process municipalities
+                # Process municipalities in parallel
                 if current_time - last_run.get('kommune', 0) >= self.schedules['kommune']:
-                    for kommune_id in year_config.get('kommune', []):
-                        self.process_entity('kommune', kommune_id, year)
+                    kommune_ids = year_config.get('kommune', [])
+                    if kommune_ids:
+                        self.process_entities_parallel('kommune', kommune_ids, year)
                     last_run['kommune'] = current_time
                 
-                # Process voting districts
+                # Process voting districts in parallel
                 if current_time - last_run.get('krets', 0) >= self.schedules['krets']:
-                    for krets_id in year_config.get('krets', []):
-                        self.process_entity('krets', krets_id, year)
+                    krets_ids = year_config.get('krets', [])
+                    if krets_ids:
+                        self.process_entities_parallel('krets', krets_ids, year)
                     last_run['krets'] = current_time
                 
             # Sleep for a short interval before next check
