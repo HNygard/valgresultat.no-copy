@@ -22,6 +22,7 @@ class EntitiesScraper:
         """
         Main entry point for scraping entities from the election API.
         Returns complete entities dictionary for all election years.
+        Preserves existing data and only adds new data.
         """
         self.api_base_url = api_base_url.rstrip('/')
         self.election_years = election_years
@@ -29,11 +30,18 @@ class EntitiesScraper:
         try:
             for year in self.election_years:
                 logger.info(f"Scraping entities for year {year}")
-                self.entities[year] = {
-                    'fylke': [],
-                    'kommune': [],
-                    'krets': []
-                }
+                # Initialize year data if not exists
+                if year not in self.entities:
+                    self.entities[year] = {
+                        'fylke': [],
+                        'kommune': [],
+                        'krets': []
+                    }
+                
+                # Create sets of existing IDs for efficient lookup
+                existing_fylke = set(self.entities[year]['fylke'])
+                existing_kommune = set(self.entities[year]['kommune'])
+                existing_krets = set(self.entities[year]['krets'])
                 
                 # Start with national level to get fylke list
                 national_url = f"{self.api_base_url}/{year}/st"
@@ -44,8 +52,9 @@ class EntitiesScraper:
                 # Process fylke level
                 for fylke in national_data.get('_links', {}).get('related', []):
                     fylke_id = self._create_fylke_id(fylke)
-                    if fylke_id:
+                    if fylke_id and fylke_id not in existing_fylke:
                         self.entities[year]['fylke'].append(fylke_id)
+                        existing_fylke.add(fylke_id)
                         
                         # Process kommune level
                         kommune_url = f"{self.api_base_url}{fylke['href']}"
@@ -55,8 +64,9 @@ class EntitiesScraper:
                             
                         for kommune in kommune_data.get('_links', {}).get('related', []):
                             kommune_id = self._create_kommune_id(fylke, kommune)
-                            if kommune_id:
+                            if kommune_id and kommune_id not in existing_kommune:
                                 self.entities[year]['kommune'].append(kommune_id)
+                                existing_kommune.add(kommune_id)
                                 
                                 # Process krets level if available
                                 if kommune.get('harUnderordnet', False):
@@ -67,8 +77,9 @@ class EntitiesScraper:
                                         
                                     for krets in krets_data.get('_links', {}).get('related', []):
                                         krets_id = self._create_krets_id(fylke, kommune, krets)
-                                        if krets_id:
+                                        if krets_id and krets_id not in existing_krets:
                                             self.entities[year]['krets'].append(krets_id)
+                                            existing_krets.add(krets_id)
 
             return self.entities
 
@@ -79,7 +90,7 @@ class EntitiesScraper:
     def _fetch_data(self, url: str) -> Optional[Dict]:
         """Fetch data from API with error handling"""
         try:
-            logger.info(f"------ Fetching data from {url}")
+            #logger.info(f"------ Fetching data from {url}")
             response = requests.get(url, timeout=30)
             response.raise_for_status()
             return response.json()
