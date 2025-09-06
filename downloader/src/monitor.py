@@ -23,11 +23,10 @@ class ElectionMonitor:
         
         # Polling intervals in seconds
         self.schedules = {
-            'nasjonalt': 300,    # 5 minutes
-            'fylke': 600,        # 10 minutes
-            'kommune_major': 900, # 15 minutes
-            'kommune_minor': 1800,# 30 minutes
-            'krets': 3600        # 1 hour
+            'nasjonalt': 300,  # 5 minutes
+            'fylke': 600,      # 10 minutes
+            'kommune': 900,    # 15 minutes
+            'krets': 3600      # 1 hour
         }
         
         # API endpoint patterns
@@ -176,22 +175,15 @@ class ElectionMonitor:
                 
                 # Process counties (fylke)
                 if current_time - last_run.get('fylke', 0) >= self.schedules['fylke']:
-                    for fylke_nr in range(1, 21):
-                        fylke_id = f"fylke-{fylke_nr:02d}"
+                    for fylke_id in year_config.get('fylke', []):
                         self.process_entity('fylke', fylke_id, year)
                     last_run['fylke'] = current_time
                 
-                # Process major municipalities
-                if current_time - last_run.get('kommune_major', 0) >= self.schedules['kommune_major']:
-                    for kommune_id in year_config.get('kommune', {}).get('major', []):
+                # Process municipalities
+                if current_time - last_run.get('kommune', 0) >= self.schedules['kommune']:
+                    for kommune_id in year_config.get('kommune', []):
                         self.process_entity('kommune', kommune_id, year)
-                    last_run['kommune_major'] = current_time
-                
-                # Process minor municipalities
-                if current_time - last_run.get('kommune_minor', 0) >= self.schedules['kommune_minor']:
-                    for kommune_id in year_config.get('kommune', {}).get('minor', []):
-                        self.process_entity('kommune', kommune_id, year)
-                    last_run['kommune_minor'] = current_time
+                    last_run['kommune'] = current_time
                 
                 # Process voting districts
                 if current_time - last_run.get('krets', 0) >= self.schedules['krets']:
