@@ -1,0 +1,607 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Ringerike",
+    "nr": "3007"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2023-05-11T14:50:28",
+    "sisteStemmer": "2021-09-17T15:39:31"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 22818,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 17103,
+    "fhs": 12594,
+    "totalForkastede": 24,
+    "fhsForkastede": 24
+  },
+  "stemmegiving": {
+    "totalGodkjente": 17094,
+    "fhsGodkjente": 12586,
+    "totalForkastede": 15,
+    "fhsForkastede": 2
+  },
+  "frammote": {
+    "prosent": 75.0,
+    "endring": null,
+    "prosentStemmegiving": 74.9
+  },
+  "opptalt": {
+    "forelopigFhs": 100.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 29.86095,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 5068,
+            "fhs": 3784
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.91563,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 1004,
+            "fhs": 771
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.1539,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 705,
+            "fhs": 545
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 17.26373,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 2930,
+            "fhs": 2049
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.78529,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 303,
+            "fhs": 230
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.66321,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 452,
+            "fhs": 350
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.84586,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 483,
+            "fhs": 338
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 19.83267,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 3366,
+            "fhs": 2516
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.2378,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 2077,
+            "fhs": 1479
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12373,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 21,
+            "fhs": 16
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.39642,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 237,
+            "fhs": 184
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0766,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 13,
+            "fhs": 6
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.28282,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 48,
+            "fhs": 35
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.17676,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 30,
+            "fhs": 25
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.2239,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 38,
+            "fhs": 30
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.30639,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 52,
+            "fhs": 36
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10606,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 18,
+            "fhs": 11
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.48315,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 82,
+            "fhs": 70
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.26514,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 45,
+            "fhs": 30
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.77186,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 131,
+            "fhs": 89
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.44096,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 584,
+            "fhs": 443
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": null
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/06/3007/0000",
+        "hrefNavn": "/2021/st/buskerud/ringerike/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/06/3007/0001",
+        "hrefNavn": "/2021/st/buskerud/ringerike/sokna",
+        "navn": "Sokna",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/06/3007/0003",
+        "hrefNavn": "/2021/st/buskerud/ringerike/veien",
+        "navn": "Veien",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/06/3007/0004",
+        "hrefNavn": "/2021/st/buskerud/ringerike/uller%C3%A5l",
+        "navn": "Ullerål",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/06/3007/0006",
+        "hrefNavn": "/2021/st/buskerud/ringerike/h%C3%B8nefoss+syd",
+        "navn": "Hønefoss syd",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/06/3007/0007",
+        "hrefNavn": "/2021/st/buskerud/ringerike/vang",
+        "navn": "Vang",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/06/3007/0009",
+        "hrefNavn": "/2021/st/buskerud/ringerike/tyristrand",
+        "navn": "Tyristrand",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/06/3007/0011",
+        "hrefNavn": "/2021/st/buskerud/ringerike/hallingby",
+        "navn": "Hallingby",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2021/st/06/3007/0012",
+        "hrefNavn": "/2021/st/buskerud/ringerike/nes",
+        "navn": "Nes",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T14:50:26",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "3007",
+      "href": "/2021/st/06/3007",
+      "hrefNavn": "/2021/st/buskerud/ringerike",
+      "navn": "Ringerike",
+      "forelopigFhs": 100.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "06",
+      "href": "/2021/st/06",
+      "hrefNavn": "/2021/st/buskerud",
+      "navn": "Buskerud"
+    }
+  }
+}
