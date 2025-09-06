@@ -1,0 +1,41 @@
+version: '3.8'
+services:
+  election-monitor:
+    build: .
+    environment:
+      - API_BASE_URL=https://valgresultat.no/api
+      - DATA_PATH=/data
+      - ELECTION_YEARS=2021,2025,2029
+      - POLL_INTERVAL_MINUTES=15
+    volumes:
+      - ./data:/data
+    restart: unless-stopped
+    
+  cleanup:
+    build: .
+    command: ["python", "cleanup.py"]
+    environment:
+      - DATA_PATH=/data
+    volumes:
+      - ./data:/data
+    depends_on:
+      - election-monitor
+    deploy:
+      restart_policy:
+        condition: none
+      placement:
+        constraints:
+          - node.role == manager
+    labels:
+      - "swarm.cronjob.enable=true"
+      - "swarm.cronjob.schedule=0 0 * * *"  # Run daily at midnight
+      - "swarm.cronjob.skip-running=true"
+    
+  web-interface:
+    build: ./web
+    ports:
+      - "8080:80"  
+    volumes:
+      - ./data:/data:ro
+    depends_on:
+      - election-monitor
