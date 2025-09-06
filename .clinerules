@@ -1,0 +1,11 @@
+
+## Commands:
+
+- Run system using:
+    docker-compose up -d
+
+- Rebuild docker images:
+    docker-compose down && docker-compose up --build -d
+
+- Restart application/service:
+    docker-compose down && docker-compose up -d
