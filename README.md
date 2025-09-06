@@ -108,4 +108,3 @@ The service includes basic monitoring of:
 - API response times
 - Storage usage
 - Change detection statistics
-- Data retention status

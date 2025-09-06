@@ -80,6 +80,7 @@ class ElectionMonitor:
         Returns True if meaningful changes detected
         """
         def clean_data(data: dict) -> dict:
+            return data
             # Deep copy and remove metadata
             cleaned = json.loads(json.dumps(data))
             cleaned.pop('tidspunkt', None)
