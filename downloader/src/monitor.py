@@ -46,7 +46,7 @@ class ElectionMonitor:
 
     def _load_entities(self) -> dict:
         """Load entity configuration from JSON file"""
-        config_path = self.data_path.parent / 'config' / 'entities.json'
+        config_path = self.data_path / 'config' / 'entities.json'
         try:
             with open(config_path, 'r', encoding='utf-8') as f:
                 return json.load(f)
@@ -208,5 +208,11 @@ if __name__ == "__main__":
     data_path = os.getenv('DATA_PATH', './data')
     election_years = os.getenv('ELECTION_YEARS', '2021,2025,2029').split(',')
     
+    logger.info(f"Starting ElectionMonitor")
+    logger.info(f"Using data path: {data_path}")
+    logger.info(f"Using API base URL: {api_base_url}")
+    logger.info(f"Using election years: {election_years}")
+
+
     monitor = ElectionMonitor(api_base_url, data_path, election_years)
     monitor.run()
