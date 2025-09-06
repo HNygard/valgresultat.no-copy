@@ -1,6 +1,7 @@
 import json
 import logging
 import requests
+import time
 from pathlib import Path
 from typing import Dict, List, Optional
 from urllib.parse import unquote
@@ -88,15 +89,24 @@ class EntitiesScraper:
             return {}
 
     def _fetch_data(self, url: str) -> Optional[Dict]:
-        """Fetch data from API with error handling"""
-        try:
-            #logger.info(f"------ Fetching data from {url}")
-            response = requests.get(url, timeout=30)
-            response.raise_for_status()
-            return response.json()
-        except requests.RequestException as e:
-            logger.error(f"Failed to fetch {url}: {str(e)}")
-            return None
+        """Fetch data from API with error handling and retries"""
+        max_retries = 5
+        retry_delay = 1  # Initial delay in seconds
+        
+        for attempt in range(max_retries):
+            try:
+                #logger.info(f"------ Fetching data from {url}")
+                response = requests.get(url, timeout=30)
+                response.raise_for_status()
+                return response.json()
+            except requests.RequestException as e:
+                if attempt == max_retries - 1:  # Last attempt
+                    logger.error(f"Failed to fetch {url} after {max_retries} attempts: {str(e)}")
+                    return None
+                else:
+                    wait_time = retry_delay * (2 ** attempt)  # Exponential backoff
+                    logger.warning(f"Attempt {attempt + 1} failed, retrying in {wait_time} seconds: {str(e)}")
+                    time.sleep(wait_time)
 
     def _normalize_name(self, name: str) -> str:
         """Convert Norwegian names to URL-safe identifiers"""
