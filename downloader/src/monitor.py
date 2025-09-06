@@ -95,11 +95,11 @@ class ElectionMonitor:
                 return response.json()
             except requests.RequestException as e:
                 if attempt == max_retries - 1:  # Last attempt
-                    logger.error(f"Failed to fetch {url} after {max_retries} attempts: {str(e)}")
+                    logger.error(f"Failed to fetch URL {self.api_base_url}{url} after {max_retries} attempts: {str(e)}")
                     return None
                 else:
                     wait_time = retry_delay * (2 ** attempt)  # Exponential backoff
-                    logger.warning(f"Attempt {attempt + 1} failed, retrying in {wait_time} seconds: {str(e)}")
+                    logger.warning(f"URL {self.api_base_url}{url}: Attempt {attempt + 1} failed, retrying in {wait_time} seconds: {str(e)}")
                     sleep(wait_time)
 
     def _has_meaningful_changes(self, old_data: dict, new_data: dict) -> bool:

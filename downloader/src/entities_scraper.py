@@ -101,11 +101,11 @@ class EntitiesScraper:
                 return response.json()
             except requests.RequestException as e:
                 if attempt == max_retries - 1:  # Last attempt
-                    logger.error(f"Failed to fetch {url} after {max_retries} attempts: {str(e)}")
+                    logger.error(f"Failed to fetch URL {url} after {max_retries} attempts: {str(e)}")
                     return None
                 else:
                     wait_time = retry_delay * (2 ** attempt)  # Exponential backoff
-                    logger.warning(f"Attempt {attempt + 1} failed, retrying in {wait_time} seconds: {str(e)}")
+                    logger.warning(f"URL {url}: Attempt {attempt + 1} failed, retrying in {wait_time} seconds: {str(e)}")
                     time.sleep(wait_time)
 
     def _normalize_name(self, name: str) -> str:
