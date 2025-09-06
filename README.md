@@ -49,71 +49,13 @@ data/
 
 ## Change Detection
 
-Changes are detected during the download process by comparing content:
-
-- Voting counts (`stemmer.total`, `stemmer.fhs`, etc.)
-- Completion percentages (`opptalt` fields)
-- Party results (`partier[].stemmer.resultat`)
-- Other significant fields excluding metadata like `rapportGenerert`
+Changes are detected during the download process by comparing content.
 
 New snapshots are only saved when changes are detected, with symlinks updated accordingly.
-
-## Data Retention
-
-The service includes automatic data retention management with different policies for election and non-election periods:
-
-### Election Period (September-October)
-- National level: 1 year retention
-- County level: 6 months retention
-- Municipality level: 3 months retention
-- District level: 1 month retention
-
-### Non-Election Period
-- National level: Keep all data
-- County level: Keep only latest snapshot
-- Municipality level: Keep only latest snapshot
-- District level: Keep only latest snapshot
-
-The cleanup process runs daily at midnight to enforce these retention policies.
 
 ## Technical Implementation
 
 ### Docker Setup
-
-```yaml
-version: '3.8'
-services:
-  election-monitor:
-    build: .
-    environment:
-      - API_BASE_URL=https://valgresultat.no/api
-      - DATA_PATH=/data
-      - ELECTION_YEARS=2021,2025,2029
-      - POLL_INTERVAL_MINUTES=15
-    volumes:
-      - ./data:/data
-    restart: unless-stopped
-    
-  cleanup:
-    build: .
-    command: ["python", "cleanup.py"]
-    environment:
-      - DATA_PATH=/data
-    volumes:
-      - ./data:/data
-    labels:
-      - "swarm.cronjob.enable=true"
-      - "swarm.cronjob.schedule=0 0 * * *"  # Run daily at midnight
-    
-  web-interface:
-    build: ./web
-    ports:
-      - "8080:80"  
-    volumes:
-      - ./data:/data:ro
-    depends_on:
-      - election-monitor
-```
 
 ### Polling Schedule
 
