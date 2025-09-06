@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Dict, Optional
 
 import requests
+from entities_scraper import EntitiesScraper
 
 # Configure logging
 logging.basicConfig(
@@ -44,17 +45,35 @@ class ElectionMonitor:
         self._init_directories()
 
     def _load_entities(self) -> dict:
-        """Load entity configuration from JSON file"""
+        """Load and update entity configuration from JSON file"""
         config_path = self.data_path / 'config' / 'entities.json'
-        try:
-            with open(config_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except FileNotFoundError:
-            logger.warning(f"No entity configuration found at {config_path}")
-            return {}
-        except json.JSONDecodeError as e:
-            logger.error(f"Invalid JSON in entity configuration: {str(e)}")
-            return {}
+        config_dir = config_path.parent
+        config_dir.mkdir(parents=True, exist_ok=True)
+
+        # Try to load existing configuration
+        existing_entities = {}
+        if config_path.exists():
+            try:
+                with open(config_path, 'r', encoding='utf-8') as f:
+                    existing_entities = json.load(f)
+            except json.JSONDecodeError as e:
+                logger.error(f"Invalid JSON in entity configuration: {str(e)}")
+
+        # Scrape current entities
+        logger.info("Scraping current entities from API...")
+        scraper = EntitiesScraper()
+        scraped_entities = scraper.scrape_entities(self.api_base_url, self.election_years)
+
+        # If scraping succeeded, update the file
+        if scraped_entities:
+            logger.info("Updating entities.json with scraped data")
+            with open(config_path, 'w', encoding='utf-8') as f:
+                json.dump(scraped_entities, f, ensure_ascii=False, indent=2)
+            return scraped_entities
+        
+        # If scraping failed, use existing configuration
+        logger.warning("Using existing entities configuration")
+        return existing_entities
 
     def _init_directories(self):
         """Create required directory structure"""
