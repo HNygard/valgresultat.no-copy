@@ -20,7 +20,7 @@ if [ "$LOCAL_HASH" != "$REMOTE_HASH" ]; then
   echo "[$(date)] New commits detected. Pulling changes and redeploying..."
 
   # Pull the latest changes
-  git pull origin main
+  git -c rebase.autoStash=true pull --rebase origin main
 
   # Build election-monitor image locally (it has its own Dockerfile)
   echo "[$(date)] Building election-monitor image..."
