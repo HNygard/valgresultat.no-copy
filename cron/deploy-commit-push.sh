@@ -35,4 +35,4 @@ if [ "$LOCAL_HASH" != "$REMOTE_HASH" ]; then
   echo "[$(date)] Deployment completed."
 fi
 
-./data-commit-push.sh
+./cron/data-commit-push.sh
