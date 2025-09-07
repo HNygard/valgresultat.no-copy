@@ -6,7 +6,7 @@ services:
     environment:
       - API_BASE_URL=https://valgresultat.no/api
       - DATA_PATH=/data
-      - ELECTION_YEARS=2021,2025,2029
+      - ELECTION_YEARS=2017,2019,2021,2025,2029
       - POLL_INTERVAL_MINUTES=15
     volumes:
       - ./data:/data
