@@ -1,0 +1,496 @@
+{
+  "id": {
+    "valgaar": "2009",
+    "valgtype": "ST",
+    "nivaa": "bydel",
+    "navn": "Bydel 00",
+    "nr": "0"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2019-06-06T11:56:06",
+    "sisteStemmer": "2009-09-15T17:17:54"
+  },
+  "merknader": [],
+  "antallsb": 7879,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 23071,
+    "fhs": 3896,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 0,
+    "fhsGodkjente": 0,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": null,
+    "endring": null,
+    "prosentStemmegiving": null
+  },
+  "opptalt": {
+    "forelopigFhs": 100.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 36.82979,
+          "endring": {
+            "samme": 5.01365,
+            "ekvivalent": 6.4793
+          },
+          "antall": {
+            "total": 8497,
+            "fhs": 1511
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.43986,
+          "endring": {
+            "samme": -5.90138,
+            "ekvivalent": -1.3214
+          },
+          "antall": {
+            "total": 2870,
+            "fhs": 443
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.49174,
+          "endring": {
+            "samme": 1.06007,
+            "ekvivalent": -1.24835
+          },
+          "antall": {
+            "total": 1267,
+            "fhs": 139
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.06194,
+          "endring": {
+            "samme": -0.00226,
+            "ekvivalent": 0.15561
+          },
+          "antall": {
+            "total": 245,
+            "fhs": 45
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.48364,
+          "endring": {
+            "samme": -0.67399,
+            "ekvivalent": -0.26976
+          },
+          "antall": {
+            "total": 573,
+            "fhs": 125
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.52026,
+          "endring": {
+            "samme": -2.17247,
+            "ekvivalent": -2.57553
+          },
+          "antall": {
+            "total": 1735,
+            "fhs": 296
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 18.80716,
+          "endring": {
+            "samme": 2.58433,
+            "ekvivalent": -2.9619
+          },
+          "antall": {
+            "total": 4339,
+            "fhs": 665
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 13.73152,
+          "endring": {
+            "samme": -0.46283,
+            "ekvivalent": 2.91296
+          },
+          "antall": {
+            "total": 3168,
+            "fhs": 618
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene i Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05201,
+          "endring": {
+            "samme": -0.03292,
+            "ekvivalent": -0.06845
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DLF",
+        "navn": "Det Liberale Folkepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07369,
+          "endring": {
+            "samme": 0.03372,
+            "ekvivalent": 0.01059
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KSP",
+        "navn": "Kristent Samlingsparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08669,
+          "endring": {
+            "samme": 0.05671,
+            "ekvivalent": 0.03506
+          },
+          "antall": {
+            "total": 20,
+            "fhs": 7
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05201,
+          "endring": {
+            "samme": -0.10287,
+            "ekvivalent": -0.00535
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.9059,
+          "endring": {
+            "samme": 0.52618,
+            "ekvivalent": 0.00531
+          },
+          "antall": {
+            "total": 209,
+            "fhs": 17
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NKP",
+        "navn": "Norges Kommunistiske Parti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03468,
+          "endring": {
+            "samme": -0.02028,
+            "ekvivalent": -0.04563
+          },
+          "antall": {
+            "total": 8,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NRA",
+        "navn": "NRA"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03468,
+          "endring": {
+            "samme": 0.03468,
+            "ekvivalent": 0.03468
+          },
+          "antall": {
+            "total": 8,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.21239,
+          "endring": {
+            "samme": -0.02743,
+            "ekvivalent": -0.18341
+          },
+          "antall": {
+            "total": 49,
+            "fhs": 20
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "SAMT",
+        "navn": "SAMT"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.14304,
+          "endring": {
+            "samme": 0.14304,
+            "ekvivalent": 0.14304
+          },
+          "antall": {
+            "total": 33,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "SFP",
+        "navn": "Samfunnspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03901,
+          "endring": {
+            "samme": 0.03901,
+            "ekvivalent": 0.03901
+          },
+          "antall": {
+            "total": 9,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.63409,
+          "endring": {
+            "samme": 0.64982,
+            "ekvivalent": -0.03516
+          },
+          "antall": {
+            "total": 377,
+            "fhs": 54
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": -0.09493,
+            "ekvivalent": -1.13578
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2009/st/03/0301/0000",
+        "hrefNavn": "/2009/st/oslo/oslo/bydel+00/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:05",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "9303",
+        "href": "/2009/st/03/0301/9303",
+        "hrefNavn": "/2009/st/oslo/oslo/bydel+00/forh%C3%A5nd+-+ikke+kretsfordelt",
+        "navn": "Forhånd - ikke kretsfordelt",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "0",
+      "href": "/2009/st/03/0301/0",
+      "hrefNavn": "/2009/st/oslo/oslo/bydel+00",
+      "navn": "Bydel 00",
+      "forelopigFhs": 100.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "0301",
+      "href": "/2009/st/03/0301",
+      "hrefNavn": "/2009/st/oslo/oslo",
+      "navn": "Oslo"
+    }
+  }
+}

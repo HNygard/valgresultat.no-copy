@@ -1,0 +1,709 @@
+{
+  "id": {
+    "valgaar": "2009",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Stavanger",
+    "nr": "1103"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2019-06-06T11:56:07",
+    "sisteStemmer": "2009-09-15T22:19:54"
+  },
+  "merknader": [],
+  "antallsb": 85342,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 65668,
+    "fhs": 11503,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 0,
+    "fhsGodkjente": 0,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 76.9,
+    "endring": -0.4,
+    "prosentStemmegiving": null
+  },
+  "opptalt": {
+    "forelopigFhs": 100.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 30.3938,
+          "endring": {
+            "samme": 1.47289,
+            "ekvivalent": 3.06786
+          },
+          "antall": {
+            "total": 19959,
+            "fhs": 3290
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.07346,
+          "endring": {
+            "samme": -1.61296,
+            "ekvivalent": 1.65388
+          },
+          "antall": {
+            "total": 4645,
+            "fhs": 889
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.58781,
+          "endring": {
+            "samme": -0.17717,
+            "ekvivalent": -0.51625
+          },
+          "antall": {
+            "total": 386,
+            "fhs": 98
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.09691,
+          "endring": {
+            "samme": -0.34478,
+            "ekvivalent": -0.0808
+          },
+          "antall": {
+            "total": 1377,
+            "fhs": 249
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.84504,
+          "endring": {
+            "samme": -0.93746,
+            "ekvivalent": -1.23112
+          },
+          "antall": {
+            "total": 4495,
+            "fhs": 825
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.13389,
+          "endring": {
+            "samme": -2.25747,
+            "ekvivalent": -1.4121
+          },
+          "antall": {
+            "total": 4028,
+            "fhs": 807
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 23.49698,
+          "endring": {
+            "samme": 4.6098,
+            "ekvivalent": -5.81474
+          },
+          "antall": {
+            "total": 15430,
+            "fhs": 2412
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 22.08229,
+          "endring": {
+            "samme": -0.59233,
+            "ekvivalent": 5.62782
+          },
+          "antall": {
+            "total": 14501,
+            "fhs": 2760
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene i Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04264,
+          "endring": {
+            "samme": -0.06196,
+            "ekvivalent": -0.06188
+          },
+          "antall": {
+            "total": 28,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DLF",
+        "navn": "Det Liberale Folkepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05634,
+          "endring": {
+            "samme": 0.05634,
+            "ekvivalent": 0.05634
+          },
+          "antall": {
+            "total": 37,
+            "fhs": 9
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KSP",
+        "navn": "Kristent Samlingsparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.14771,
+          "endring": {
+            "samme": -0.07398,
+            "ekvivalent": -0.10692
+          },
+          "antall": {
+            "total": 97,
+            "fhs": 20
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.06548,
+          "endring": {
+            "samme": -0.27173,
+            "ekvivalent": -0.12075
+          },
+          "antall": {
+            "total": 43,
+            "fhs": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.34263,
+          "endring": {
+            "samme": 0.15373,
+            "ekvivalent": -0.33006
+          },
+          "antall": {
+            "total": 225,
+            "fhs": 49
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NKP",
+        "navn": "Norges Kommunistiske Parti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02589,
+          "endring": {
+            "samme": 0.02589,
+            "ekvivalent": 0.02589
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.60912,
+          "endring": {
+            "samme": 0.17668,
+            "ekvivalent": -0.75717
+          },
+          "antall": {
+            "total": 400,
+            "fhs": 80
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.28982,
+          "endring": {
+            "samme": 0.00497,
+            "ekvivalent": -1.29455
+          },
+          "antall": {
+            "total": 847,
+            "fhs": 173
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": -0.16549,
+            "ekvivalent": 0.0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2009/st/11/1103/0000",
+        "hrefNavn": "/2009/st/rogaland/stavanger/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2009/st/11/1103/0001",
+        "hrefNavn": "/2009/st/rogaland/stavanger/bu%C3%B8y%2Fhundv%C3%A5g",
+        "navn": "Buøy/Hundvåg",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2009/st/11/1103/0004",
+        "hrefNavn": "/2009/st/rogaland/stavanger/varden",
+        "navn": "Varden",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2009/st/11/1103/0005",
+        "hrefNavn": "/2009/st/rogaland/stavanger/storhaug",
+        "navn": "Storhaug",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2009/st/11/1103/0006",
+        "hrefNavn": "/2009/st/rogaland/stavanger/v%C3%A5land",
+        "navn": "Våland",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2009/st/11/1103/0007",
+        "hrefNavn": "/2009/st/rogaland/stavanger/ullandhaug",
+        "navn": "Ullandhaug",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2009/st/11/1103/0008",
+        "hrefNavn": "/2009/st/rogaland/stavanger/eiganes",
+        "navn": "Eiganes",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2009/st/11/1103/0009",
+        "hrefNavn": "/2009/st/rogaland/stavanger/kampen",
+        "navn": "Kampen",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2009/st/11/1103/0011",
+        "hrefNavn": "/2009/st/rogaland/stavanger/austre+%C3%A5m%C3%B8y",
+        "navn": "Austre Åmøy",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2009/st/11/1103/0013",
+        "hrefNavn": "/2009/st/rogaland/stavanger/roalds%C3%B8y",
+        "navn": "Roaldsøy",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2009/st/11/1103/0014",
+        "hrefNavn": "/2009/st/rogaland/stavanger/vass%C3%B8y",
+        "navn": "Vassøy",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2009/st/11/1103/0016",
+        "hrefNavn": "/2009/st/rogaland/stavanger/gausel",
+        "navn": "Gausel",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2009/st/11/1103/0017",
+        "hrefNavn": "/2009/st/rogaland/stavanger/hinna",
+        "navn": "Hinna",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2009/st/11/1103/0018",
+        "hrefNavn": "/2009/st/rogaland/stavanger/vaulen",
+        "navn": "Vaulen",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2009/st/11/1103/0019",
+        "hrefNavn": "/2009/st/rogaland/stavanger/kvaleberg",
+        "navn": "Kvaleberg",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0020",
+        "href": "/2009/st/11/1103/0020",
+        "hrefNavn": "/2009/st/rogaland/stavanger/tjensvoll",
+        "navn": "Tjensvoll",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0021",
+        "href": "/2009/st/11/1103/0021",
+        "hrefNavn": "/2009/st/rogaland/stavanger/stokka",
+        "navn": "Stokka",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0022",
+        "href": "/2009/st/11/1103/0022",
+        "hrefNavn": "/2009/st/rogaland/stavanger/madlamark",
+        "navn": "Madlamark",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0023",
+        "href": "/2009/st/11/1103/0023",
+        "hrefNavn": "/2009/st/rogaland/stavanger/hafrsfjord",
+        "navn": "Hafrsfjord",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0024",
+        "href": "/2009/st/11/1103/0024",
+        "hrefNavn": "/2009/st/rogaland/stavanger/kvernevik",
+        "navn": "Kvernevik",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0025",
+        "href": "/2009/st/11/1103/0025",
+        "hrefNavn": "/2009/st/rogaland/stavanger/sunde",
+        "navn": "Sunde",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0026",
+        "href": "/2009/st/11/1103/0026",
+        "hrefNavn": "/2009/st/rogaland/stavanger/indre+tasta",
+        "navn": "Indre Tasta",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0027",
+        "href": "/2009/st/11/1103/0027",
+        "hrefNavn": "/2009/st/rogaland/stavanger/ytre+tasta",
+        "navn": "Ytre Tasta",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:06",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "1103",
+      "href": "/2009/st/11/1103",
+      "hrefNavn": "/2009/st/rogaland/stavanger",
+      "navn": "Stavanger",
+      "forelopigFhs": 100.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "11",
+      "href": "/2009/st/11",
+      "hrefNavn": "/2009/st/rogaland",
+      "navn": "Rogaland"
+    }
+  }
+}

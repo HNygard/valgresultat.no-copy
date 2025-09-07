@@ -1,0 +1,948 @@
+{
+  "id": {
+    "valgaar": "2009",
+    "valgtype": "ST",
+    "nivaa": "fylke",
+    "navn": "Akershus",
+    "nr": "02"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2019-06-06T11:56:08",
+    "sisteStemmer": "2009-09-15T09:42:54"
+  },
+  "merknader": [],
+  "antallsb": 375622,
+  "mandater": {
+    "antall": 16,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 300586,
+    "fhs": 68832,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 0,
+    "fhsGodkjente": 0,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 80.0,
+    "endring": -0.7,
+    "prosentStemmegiving": null
+  },
+  "opptalt": {
+    "forelopigFhs": 100.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 33.68121,
+          "endring": {
+            "samme": 3.15674,
+            "ekvivalent": 5.61017
+          },
+          "antall": {
+            "total": 101241,
+            "fhs": 22600
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 5,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 11249.0,
+            "mandatrang": 12
+          },
+          "nesteMandat": {
+            "kvotient": 9203.72727,
+            "mandatrang": 16
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.66893,
+          "endring": {
+            "samme": -2.18129,
+            "ekvivalent": -0.52862
+          },
+          "antall": {
+            "total": 17040,
+            "fhs": 4411
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 1,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 12171.42857,
+            "mandatrang": 11
+          },
+          "nesteMandat": {
+            "kvotient": 5680.0,
+            "mandatrang": 26
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.85367,
+          "endring": {
+            "samme": 0.06395,
+            "ekvivalent": -0.51611
+          },
+          "antall": {
+            "total": 2566,
+            "fhs": 692
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 1832.85714,
+            "mandatrang": 61
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.13887,
+          "endring": {
+            "samme": -0.80381,
+            "ekvivalent": -0.9034
+          },
+          "antall": {
+            "total": 9435,
+            "fhs": 1811
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": -1,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 6739.28571,
+            "mandatrang": 21
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.09662,
+          "endring": {
+            "samme": -0.80569,
+            "ekvivalent": -0.83387
+          },
+          "antall": {
+            "total": 9308,
+            "fhs": 2418
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 1,
+          "endring": 1,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 6648.57143,
+            "mandatrang": 23
+          },
+          "utjevningAntall": 1,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.88646,
+          "endring": {
+            "samme": -2.71282,
+            "ekvivalent": -1.8382
+          },
+          "antall": {
+            "total": 14688,
+            "fhs": 3521
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 1,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 10491.42857,
+            "mandatrang": 13
+          },
+          "nesteMandat": {
+            "kvotient": 4896.0,
+            "mandatrang": 30
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 23.12317,
+          "endring": {
+            "samme": 2.52536,
+            "ekvivalent": -4.18517
+          },
+          "antall": {
+            "total": 69505,
+            "fhs": 14540
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 4,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 9929.28571,
+            "mandatrang": 15
+          },
+          "nesteMandat": {
+            "kvotient": 7722.77778,
+            "mandatrang": 19
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 24.3857,
+          "endring": {
+            "samme": 0.92346,
+            "ekvivalent": 4.51872
+          },
+          "antall": {
+            "total": 73300,
+            "fhs": 17717
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 4,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 10471.42857,
+            "mandatrang": 14
+          },
+          "nesteMandat": {
+            "kvotient": 8144.44444,
+            "mandatrang": 17
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene i Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05456,
+          "endring": {
+            "samme": 0.00862,
+            "ekvivalent": -0.10925
+          },
+          "antall": {
+            "total": 164,
+            "fhs": 48
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 117.14286,
+            "mandatrang": 130
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "ES",
+        "navn": "ES"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03427,
+          "endring": {
+            "samme": 0.03427,
+            "ekvivalent": 0.03427
+          },
+          "antall": {
+            "total": 103,
+            "fhs": 26
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 73.57143,
+            "mandatrang": 144
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KSP",
+        "navn": "Kristent Samlingsparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10213,
+          "endring": {
+            "samme": 0.01512,
+            "ekvivalent": 0.10213
+          },
+          "antall": {
+            "total": 307,
+            "fhs": 73
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 219.28571,
+            "mandatrang": 119
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0509,
+          "endring": {
+            "samme": -0.14366,
+            "ekvivalent": -0.0338
+          },
+          "antall": {
+            "total": 153,
+            "fhs": 30
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 109.28571,
+            "mandatrang": 132
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.3929,
+          "endring": {
+            "samme": 0.22584,
+            "ekvivalent": -0.39346
+          },
+          "antall": {
+            "total": 1181,
+            "fhs": 323
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 843.57143,
+            "mandatrang": 80
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.53063,
+          "endring": {
+            "samme": -0.20097,
+            "ekvivalent": -0.92342
+          },
+          "antall": {
+            "total": 1595,
+            "fhs": 622
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 1139.28571,
+            "mandatrang": 68
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.16539,
+          "endring": {
+            "samme": -0.06078,
+            "ekvivalent": -1.32352
+          },
+          "antall": {
+            "total": 3503,
+            "fhs": 1122
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 1139.28571,
+            "mandatrang": 68
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": -0.10511,
+            "ekvivalent": 0.0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0211",
+        "href": "/2009/st/02/0211",
+        "hrefNavn": "/2009/st/akershus/vestby",
+        "navn": "Vestby",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0213",
+        "href": "/2009/st/02/0213",
+        "hrefNavn": "/2009/st/akershus/ski",
+        "navn": "Ski",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0214",
+        "href": "/2009/st/02/0214",
+        "hrefNavn": "/2009/st/akershus/%C3%A5s",
+        "navn": "Ås",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0215",
+        "href": "/2009/st/02/0215",
+        "hrefNavn": "/2009/st/akershus/frogn",
+        "navn": "Frogn",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0216",
+        "href": "/2009/st/02/0216",
+        "hrefNavn": "/2009/st/akershus/nesodden",
+        "navn": "Nesodden",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0217",
+        "href": "/2009/st/02/0217",
+        "hrefNavn": "/2009/st/akershus/oppeg%C3%A5rd",
+        "navn": "Oppegård",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0219",
+        "href": "/2009/st/02/0219",
+        "hrefNavn": "/2009/st/akershus/b%C3%A6rum",
+        "navn": "Bærum",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0220",
+        "href": "/2009/st/02/0220",
+        "hrefNavn": "/2009/st/akershus/asker",
+        "navn": "Asker",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0221",
+        "href": "/2009/st/02/0221",
+        "hrefNavn": "/2009/st/akershus/aurskog-h%C3%B8land",
+        "navn": "Aurskog-Høland",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0226",
+        "href": "/2009/st/02/0226",
+        "hrefNavn": "/2009/st/akershus/s%C3%B8rum",
+        "navn": "Sørum",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0227",
+        "href": "/2009/st/02/0227",
+        "hrefNavn": "/2009/st/akershus/fet",
+        "navn": "Fet",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0228",
+        "href": "/2009/st/02/0228",
+        "hrefNavn": "/2009/st/akershus/r%C3%A6lingen",
+        "navn": "Rælingen",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0229",
+        "href": "/2009/st/02/0229",
+        "hrefNavn": "/2009/st/akershus/enebakk",
+        "navn": "Enebakk",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0230",
+        "href": "/2009/st/02/0230",
+        "hrefNavn": "/2009/st/akershus/l%C3%B8renskog",
+        "navn": "Lørenskog",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0231",
+        "href": "/2009/st/02/0231",
+        "hrefNavn": "/2009/st/akershus/skedsmo",
+        "navn": "Skedsmo",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0233",
+        "href": "/2009/st/02/0233",
+        "hrefNavn": "/2009/st/akershus/nittedal",
+        "navn": "Nittedal",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0234",
+        "href": "/2009/st/02/0234",
+        "hrefNavn": "/2009/st/akershus/gjerdrum",
+        "navn": "Gjerdrum",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0235",
+        "href": "/2009/st/02/0235",
+        "hrefNavn": "/2009/st/akershus/ullensaker",
+        "navn": "Ullensaker",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0236",
+        "href": "/2009/st/02/0236",
+        "hrefNavn": "/2009/st/akershus/nes",
+        "navn": "Nes",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0237",
+        "href": "/2009/st/02/0237",
+        "hrefNavn": "/2009/st/akershus/eidsvoll",
+        "navn": "Eidsvoll",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0238",
+        "href": "/2009/st/02/0238",
+        "hrefNavn": "/2009/st/akershus/nannestad",
+        "navn": "Nannestad",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0239",
+        "href": "/2009/st/02/0239",
+        "hrefNavn": "/2009/st/akershus/hurdal",
+        "navn": "Hurdal",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2019-06-06T11:56:07",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "02",
+      "href": "/2009/st/02",
+      "hrefNavn": "/2009/st/akershus",
+      "navn": "Akershus",
+      "forelopigFhs": 100.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "0",
+      "href": "/2009/st",
+      "hrefNavn": "/2009/st",
+      "navn": "norge"
+    }
+  }
+}
