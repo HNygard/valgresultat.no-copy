@@ -1,4 +1,4 @@
-# valgresultater.no-copy
+# Copy of valgresultat.no
 
 A service to download and archive election results from valgresultat.no, tracking changes over time.
 
