@@ -6,6 +6,8 @@
 # Navigate to the project directory
 cd /opt/valgresultat.no-copy/app || exit
 
+GIT_SSH_COMMAND="ssh -i key=\"/opt/valgresultat.no-copy/secrets/id_ed25519\""
+
 # Fetch the latest changes from the remote repository
 git fetch origin main
 
