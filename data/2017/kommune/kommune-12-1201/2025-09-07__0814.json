@@ -1,0 +1,957 @@
+{
+  "id": {
+    "valgaar": "2017",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Bergen",
+    "nr": "1201"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2023-05-11T13:48:27",
+    "sisteStemmer": "2018-02-26T09:23:16"
+  },
+  "merknader": [],
+  "antallsb": 200037,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 163645,
+    "fhs": 76163,
+    "totalForkastede": 581,
+    "fhsForkastede": 356
+  },
+  "stemmegiving": {
+    "totalGodkjente": 163599,
+    "fhsGodkjente": 76165,
+    "totalForkastede": 273,
+    "fhsForkastede": 49
+  },
+  "frammote": {
+    "prosent": 81.8,
+    "endring": 0.8,
+    "prosentStemmegiving": 81.8
+  },
+  "opptalt": {
+    "forelopigFhs": 100.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 24.38008,
+          "endring": {
+            "samme": -1.21023
+          },
+          "antall": {
+            "total": 39603,
+            "fhs": 18669
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 9.03841,
+          "endring": {
+            "samme": 2.61517
+          },
+          "antall": {
+            "total": 14682,
+            "fhs": 6249
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.81396,
+          "endring": {
+            "samme": 1.6234
+          },
+          "antall": {
+            "total": 4571,
+            "fhs": 2317
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.14492,
+          "endring": {
+            "samme": 2.13669
+          },
+          "antall": {
+            "total": 6733,
+            "fhs": 3160
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.11352,
+          "endring": {
+            "samme": -1.56138
+          },
+          "antall": {
+            "total": 6682,
+            "fhs": 3097
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.45641,
+          "endring": {
+            "samme": 0.42263
+          },
+          "antall": {
+            "total": 7239,
+            "fhs": 3585
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.43216,
+          "endring": {
+            "samme": -1.42239
+          },
+          "antall": {
+            "total": 8824,
+            "fhs": 3281
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 31.57474,
+          "endring": {
+            "samme": -2.03757
+          },
+          "antall": {
+            "total": 51290,
+            "fhs": 23978
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.56156,
+          "endring": {
+            "samme": -0.60135
+          },
+          "antall": {
+            "total": 20405,
+            "fhs": 10052
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "ALLI",
+        "navn": "Alliansen"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.11635,
+          "endring": {
+            "samme": 0.11635
+          },
+          "antall": {
+            "total": 189,
+            "fhs": 95
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene i Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10158,
+          "endring": {
+            "samme": 0.02905
+          },
+          "antall": {
+            "total": 165,
+            "fhs": 86
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.25856,
+          "endring": {
+            "samme": 0.25856
+          },
+          "antall": {
+            "total": 420,
+            "fhs": 256
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.35398,
+          "endring": {
+            "samme": -0.1768
+          },
+          "antall": {
+            "total": 575,
+            "fhs": 293
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.13543,
+          "endring": {
+            "samme": 0.06612
+          },
+          "antall": {
+            "total": 220,
+            "fhs": 118
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.22778,
+          "endring": {
+            "samme": 0.22778
+          },
+          "antall": {
+            "total": 370,
+            "fhs": 152
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16806,
+          "endring": {
+            "samme": -0.25682
+          },
+          "antall": {
+            "total": 273,
+            "fhs": 104
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.74181,
+          "endring": {
+            "samme": 0.27201
+          },
+          "antall": {
+            "total": 1205,
+            "fhs": 562
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "FI",
+        "navn": "Feministisk Initiativ"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12251,
+          "endring": {
+            "samme": 0.12251
+          },
+          "antall": {
+            "total": 199,
+            "fhs": 109
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.48424,
+          "endring": {
+            "samme": -3.99875
+          },
+          "antall": {
+            "total": 2411,
+            "fhs": 1213
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": -0.35171
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2017/st/12/1201/0000",
+        "hrefNavn": "/2017/st/hordaland/bergen/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2017/st/12/1201/0001",
+        "hrefNavn": "/2017/st/hordaland/bergen/bergen+r%C3%A5dhus",
+        "navn": "Bergen rådhus",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2017/st/12/1201/0002",
+        "hrefNavn": "/2017/st/hordaland/bergen/m%C3%B8hlenpris+valgkrets",
+        "navn": "Møhlenpris valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2017/st/12/1201/0003",
+        "hrefNavn": "/2017/st/hordaland/bergen/nordnes+valgkrets",
+        "navn": "Nordnes valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2017/st/12/1201/0004",
+        "hrefNavn": "/2017/st/hordaland/bergen/haukeland+valgkrets",
+        "navn": "Haukeland valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2017/st/12/1201/0007",
+        "hrefNavn": "/2017/st/hordaland/bergen/ny+krohnborg+valgkrets",
+        "navn": "Ny Krohnborg valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2017/st/12/1201/0009",
+        "hrefNavn": "/2017/st/hordaland/bergen/b%C3%B8nes+valgkrets",
+        "navn": "Bønes valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2017/st/12/1201/0013",
+        "hrefNavn": "/2017/st/hordaland/bergen/land%C3%A5s+valgkrets",
+        "navn": "Landås valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2017/st/12/1201/0014",
+        "hrefNavn": "/2017/st/hordaland/bergen/slettebakken+valgkrets",
+        "navn": "Slettebakken valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2017/st/12/1201/0015",
+        "hrefNavn": "/2017/st/hordaland/bergen/gimle+valgkrets",
+        "navn": "Gimle valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2017/st/12/1201/0018",
+        "hrefNavn": "/2017/st/hordaland/bergen/hellen+valgkrets",
+        "navn": "Hellen valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2017/st/12/1201/0019",
+        "hrefNavn": "/2017/st/hordaland/bergen/rothaugen+valgkrets",
+        "navn": "Rothaugen valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0022",
+        "href": "/2017/st/12/1201/0022",
+        "hrefNavn": "/2017/st/hordaland/bergen/eidsv%C3%A5g+valgkrets",
+        "navn": "Eidsvåg valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0023",
+        "href": "/2017/st/12/1201/0023",
+        "hrefNavn": "/2017/st/hordaland/bergen/tertnes+valgkrets",
+        "navn": "Tertnes valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0024",
+        "href": "/2017/st/12/1201/0024",
+        "hrefNavn": "/2017/st/hordaland/bergen/mj%C3%B8lker%C3%A5en+valgkrets",
+        "navn": "Mjølkeråen valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0028",
+        "href": "/2017/st/12/1201/0028",
+        "hrefNavn": "/2017/st/hordaland/bergen/haukedalen+valgkrets",
+        "navn": "Haukedalen valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0029",
+        "href": "/2017/st/12/1201/0029",
+        "hrefNavn": "/2017/st/hordaland/bergen/hordvik+valgkrets",
+        "navn": "Hordvik valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0031",
+        "href": "/2017/st/12/1201/0031",
+        "hrefNavn": "/2017/st/hordaland/bergen/nyborg+valgkrets",
+        "navn": "Nyborg valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0032",
+        "href": "/2017/st/12/1201/0032",
+        "hrefNavn": "/2017/st/hordaland/bergen/rolland+valgkrets",
+        "navn": "Rolland valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0035",
+        "href": "/2017/st/12/1201/0035",
+        "hrefNavn": "/2017/st/hordaland/bergen/ytre+arna+valgkrets",
+        "navn": "Ytre Arna valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0036",
+        "href": "/2017/st/12/1201/0036",
+        "hrefNavn": "/2017/st/hordaland/bergen/indre+arna+valgkrets",
+        "navn": "Indre Arna valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0039",
+        "href": "/2017/st/12/1201/0039",
+        "hrefNavn": "/2017/st/hordaland/bergen/lone+valgkrets",
+        "navn": "Lone valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0044",
+        "href": "/2017/st/12/1201/0044",
+        "hrefNavn": "/2017/st/hordaland/bergen/kaland+valgkrets",
+        "navn": "Kaland valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0045",
+        "href": "/2017/st/12/1201/0045",
+        "hrefNavn": "/2017/st/hordaland/bergen/kirkevoll+valgkrets",
+        "navn": "Kirkevoll valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0048",
+        "href": "/2017/st/12/1201/0048",
+        "hrefNavn": "/2017/st/hordaland/bergen/skjold+valgkrets",
+        "navn": "Skjold valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0049",
+        "href": "/2017/st/12/1201/0049",
+        "hrefNavn": "/2017/st/hordaland/bergen/nesttun+valgkrets",
+        "navn": "Nesttun valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0052",
+        "href": "/2017/st/12/1201/0052",
+        "hrefNavn": "/2017/st/hordaland/bergen/paradis+valgkrets",
+        "navn": "Paradis valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0054",
+        "href": "/2017/st/12/1201/0054",
+        "hrefNavn": "/2017/st/hordaland/bergen/sandsli+valgkrets",
+        "navn": "Sandsli valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0055",
+        "href": "/2017/st/12/1201/0055",
+        "hrefNavn": "/2017/st/hordaland/bergen/r%C3%A5+valgkrets",
+        "navn": "Rå valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0058",
+        "href": "/2017/st/12/1201/0058",
+        "hrefNavn": "/2017/st/hordaland/bergen/liland+valgkrets",
+        "navn": "Liland valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0062",
+        "href": "/2017/st/12/1201/0062",
+        "hrefNavn": "/2017/st/hordaland/bergen/lynghaug+valgkrets",
+        "navn": "Lynghaug valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0063",
+        "href": "/2017/st/12/1201/0063",
+        "hrefNavn": "/2017/st/hordaland/bergen/ortun+valgkrets",
+        "navn": "Ortun valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0067",
+        "href": "/2017/st/12/1201/0067",
+        "hrefNavn": "/2017/st/hordaland/bergen/olsvik+valgkrets",
+        "navn": "Olsvik valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0068",
+        "href": "/2017/st/12/1201/0068",
+        "hrefNavn": "/2017/st/hordaland/bergen/vadmyra+valgkrets",
+        "navn": "Vadmyra valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0070",
+        "href": "/2017/st/12/1201/0070",
+        "hrefNavn": "/2017/st/hordaland/bergen/alv%C3%B8en+valgkrets",
+        "navn": "Alvøen valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0071",
+        "href": "/2017/st/12/1201/0071",
+        "hrefNavn": "/2017/st/hordaland/bergen/varden+valgkrets",
+        "navn": "Varden valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0074",
+        "href": "/2017/st/12/1201/0074",
+        "hrefNavn": "/2017/st/hordaland/bergen/damsg%C3%A5rd+valgkrets",
+        "navn": "Damsgård valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0076",
+        "href": "/2017/st/12/1201/0076",
+        "hrefNavn": "/2017/st/hordaland/bergen/nyg%C3%A5rdslien+valgkrets",
+        "navn": "Nygårdslien valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0077",
+        "href": "/2017/st/12/1201/0077",
+        "hrefNavn": "/2017/st/hordaland/bergen/s%C3%A6dalen+valgkrets",
+        "navn": "Sædalen valgkrets",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:25",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "1201",
+      "href": "/2017/st/12/1201",
+      "hrefNavn": "/2017/st/hordaland/bergen",
+      "navn": "Bergen",
+      "forelopigFhs": 100.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "12",
+      "href": "/2017/st/12",
+      "hrefNavn": "/2017/st/hordaland",
+      "navn": "Hordaland"
+    }
+  }
+}

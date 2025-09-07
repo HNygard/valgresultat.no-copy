@@ -1,0 +1,626 @@
+{
+  "id": {
+    "valgaar": "2017",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Sarpsborg",
+    "nr": "0105"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2023-05-11T13:48:27",
+    "sisteStemmer": "2018-02-26T08:56:57"
+  },
+  "merknader": [],
+  "antallsb": 40569,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 29583,
+    "fhs": 6873,
+    "totalForkastede": 92,
+    "fhsForkastede": 30
+  },
+  "stemmegiving": {
+    "totalGodkjente": 29573,
+    "fhsGodkjente": 6873,
+    "totalForkastede": 29,
+    "fhsForkastede": 4
+  },
+  "frammote": {
+    "prosent": 72.9,
+    "endring": -0.9,
+    "prosentStemmegiving": 72.9
+  },
+  "opptalt": {
+    "forelopigFhs": 100.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 37.32906,
+          "endring": {
+            "samme": -2.11061
+          },
+          "antall": {
+            "total": 10946,
+            "fhs": 2564
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.54329,
+          "endring": {
+            "samme": 1.82793
+          },
+          "antall": {
+            "total": 1039,
+            "fhs": 218
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.46302,
+          "endring": {
+            "samme": 0.9405
+          },
+          "antall": {
+            "total": 429,
+            "fhs": 119
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.75579,
+          "endring": {
+            "samme": 3.90945
+          },
+          "antall": {
+            "total": 1981,
+            "fhs": 422
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.12986,
+          "endring": {
+            "samme": -1.20187
+          },
+          "antall": {
+            "total": 1211,
+            "fhs": 278
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.71879,
+          "endring": {
+            "samme": 0.31968
+          },
+          "antall": {
+            "total": 504,
+            "fhs": 156
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.68809,
+          "endring": {
+            "samme": -1.16168
+          },
+          "antall": {
+            "total": 495,
+            "fhs": 129
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 21.98956,
+          "endring": {
+            "samme": -0.89803
+          },
+          "antall": {
+            "total": 6448,
+            "fhs": 1474
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 18.57586,
+          "endring": {
+            "samme": -1.74384
+          },
+          "antall": {
+            "total": 5447,
+            "fhs": 1232
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "ALLI",
+        "navn": "Alliansen"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.14323,
+          "endring": {
+            "samme": 0.14323
+          },
+          "antall": {
+            "total": 42,
+            "fhs": 10
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene i Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16369,
+          "endring": {
+            "samme": 0.07088
+          },
+          "antall": {
+            "total": 48,
+            "fhs": 11
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.52177,
+          "endring": {
+            "samme": 0.52177
+          },
+          "antall": {
+            "total": 153,
+            "fhs": 38
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.54224,
+          "endring": {
+            "samme": -0.62311
+          },
+          "antall": {
+            "total": 159,
+            "fhs": 50
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04092,
+          "endring": {
+            "samme": 0.00311
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.19439,
+          "endring": {
+            "samme": 0.19439
+          },
+          "antall": {
+            "total": 57,
+            "fhs": 10
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.20042,
+          "endring": {
+            "samme": 0.23789
+          },
+          "antall": {
+            "total": 352,
+            "fhs": 109
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.88668,
+          "endring": {
+            "samme": 0.29541
+          },
+          "antall": {
+            "total": 260,
+            "fhs": 50
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.80667,
+          "endring": {
+            "samme": -1.28064
+          },
+          "antall": {
+            "total": 823,
+            "fhs": 231
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": -0.4297
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2017/st/01/0105/0000",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2017/st/01/0105/0002",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/gamle+sarpsborg",
+        "navn": "Gamle Sarpsborg",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2017/st/01/0105/0003",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/kurland",
+        "navn": "Kurland",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2017/st/01/0105/0004",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/alvim",
+        "navn": "Alvim",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2017/st/01/0105/0006",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/sandbakken",
+        "navn": "Sandbakken",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2017/st/01/0105/0008",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/borgen",
+        "navn": "Borgen",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2017/st/01/0105/0009",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/hafslund",
+        "navn": "Hafslund",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2017/st/01/0105/0011",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/skjeberg",
+        "navn": "Skjeberg",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2017/st/01/0105/0014",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/uller%C3%B8y",
+        "navn": "Ullerøy",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2017/st/01/0105/0018",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/gre%C3%A5ker",
+        "navn": "Greåker",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0021",
+        "href": "/2017/st/01/0105/0021",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/gr%C3%A5lum",
+        "navn": "Grålum",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0024",
+        "href": "/2017/st/01/0105/0024",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/lande",
+        "navn": "Lande",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0025",
+        "href": "/2017/st/01/0105/0025",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/hafslunds%C3%B8y",
+        "navn": "Hafslundsøy",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0027",
+        "href": "/2017/st/01/0105/0027",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/jelsnes",
+        "navn": "Jelsnes",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0034",
+        "href": "/2017/st/01/0105/0034",
+        "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg/varteig",
+        "navn": "Varteig",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T13:48:24",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "0105",
+      "href": "/2017/st/01/0105",
+      "hrefNavn": "/2017/st/%C3%B8stfold/sarpsborg",
+      "navn": "Sarpsborg",
+      "forelopigFhs": 100.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "01",
+      "href": "/2017/st/01",
+      "hrefNavn": "/2017/st/%C3%B8stfold",
+      "navn": "Østfold"
+    }
+  }
+}
