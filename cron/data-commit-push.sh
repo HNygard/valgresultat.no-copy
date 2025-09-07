@@ -10,6 +10,6 @@ cd /opt/valgresultat.no-copy/app || exit
 if [[ -n $(git status --porcelain data) ]]; then
   echo "[$(date)] Data changed. Commiting and pushing."
   git add data
-  git commit -m "Automated commit of new data" || echo "No changes to commit"
+  git commit -m "[bot] Automated commit of new data" || echo "No changes to commit"
   git push origin main || echo "Failed to push changes"
 fi
