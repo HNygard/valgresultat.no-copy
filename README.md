@@ -2,6 +2,8 @@
 
 A service to download and archive election results from valgresultat.no, tracking changes over time.
 
+When data changes in the APIs, a new JSON file is saved to this repository. The system is setup to run automatically and push changes to Github.
+
 ## Data Structure
 
 The data is organized in a hierarchical structure by year and entity type:
@@ -40,6 +42,12 @@ data/
 │       └── entities.json            # Master list of entities to monitor
 ```
 
+### Data sources
+
+- 2021: Downloaded as snapshots in https://github.com/HNygard/valgresultater.no-2021-stortingsvalg (and some scripts not commited)
+- 2025: Scraper made that saves incremental updates to the data structure. Redownload of the previous elections.
+
+
 ### Key Features
 
 - Each entity (national, county, municipality, district) maintains its own history
@@ -56,6 +64,7 @@ New snapshots are only saved when changes are detected, with symlinks updated ac
 ## Technical Implementation
 
 ### Docker Setup
+The system runs in a docker container through Docker compose. Outside of the container, there is a cronjob that handles git (pull new changes in, push out data updates).
 
 ### Polling Schedule
 
@@ -65,8 +74,7 @@ Different entity types are polled at different frequencies during active electio
 ENTITY_SCHEDULES = {
     'nasjonalt': 300,      # Every 5 minutes
     'fylke': 600,          # Every 10 minutes  
-    'kommune_major': 900,   # Every 15 minutes (pop > 50k)
-    'kommune_minor': 1800,  # Every 30 minutes (pop < 50k)
+    'kommune': 900,        # Every 15 minutes
     'krets': 3600          # Every hour
 }
 ```
@@ -100,11 +108,3 @@ ENTITY_PATTERNS = {
    ```bash
    docker-compose up -d
    ```
-
-### Monitoring
-
-The service includes basic monitoring of:
-- Download success/failure rates
-- API response times
-- Storage usage
-- Change detection statistics
