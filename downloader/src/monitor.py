@@ -246,7 +246,7 @@ if __name__ == "__main__":
     # Load configuration from environment
     api_base_url = os.getenv('API_BASE_URL', 'https://valgresultat.no/api')
     data_path = os.getenv('DATA_PATH', './data')
-    election_years = os.getenv('ELECTION_YEARS', '2021,2025,2029').split(',')
+    election_years = os.getenv('ELECTION_YEARS', '2017,2019,2021,2025,2029').split(',')
     
     logger.info(f"Starting ElectionMonitor")
     logger.info(f"Using data path: {data_path}")
