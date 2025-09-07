@@ -1,0 +1,707 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Porsgrunn",
+    "nr": "3806"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T23:33:02",
+    "sisteStemmer": "2021-09-13T23:32:44"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 27658,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 19984,
+    "fhs": 9438,
+    "totalForkastede": 3,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 20562,
+    "fhsGodkjente": 10018,
+    "totalForkastede": 4,
+    "fhsForkastede": 4
+  },
+  "frammote": {
+    "prosent": 72.5,
+    "endring": -2.7,
+    "prosentStemmegiving": 74.7
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 27.1,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 33.99607,
+          "endring": {
+            "samme": -1.57754,
+            "ekvivalent": -1.71307
+          },
+          "antall": {
+            "total": 6754,
+            "fhs": 3140
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.45291,
+          "endring": {
+            "samme": 1.15503,
+            "ekvivalent": 0.74616
+          },
+          "antall": {
+            "total": 1282,
+            "fhs": 663
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.97307,
+          "endring": {
+            "samme": 2.59986,
+            "ekvivalent": -0.1642
+          },
+          "antall": {
+            "total": 988,
+            "fhs": 558
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 9.14582,
+          "endring": {
+            "samme": 3.81839,
+            "ekvivalent": -1.91401
+          },
+          "antall": {
+            "total": 1817,
+            "fhs": 762
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.6241,
+          "endring": {
+            "samme": -0.30008,
+            "ekvivalent": -1.10555
+          },
+          "antall": {
+            "total": 720,
+            "fhs": 347
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.02008,
+          "endring": {
+            "samme": 0.39576,
+            "ekvivalent": -2.62672
+          },
+          "antall": {
+            "total": 600,
+            "fhs": 379
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.68284,
+          "endring": {
+            "samme": -0.53725,
+            "ekvivalent": 0.17115
+          },
+          "antall": {
+            "total": 533,
+            "fhs": 247
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 18.73962,
+          "endring": {
+            "samme": -4.02749,
+            "ekvivalent": 2.10492
+          },
+          "antall": {
+            "total": 3723,
+            "fhs": 1830
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.72965,
+          "endring": {
+            "samme": -4.57217,
+            "ekvivalent": 4.13956
+          },
+          "antall": {
+            "total": 2529,
+            "fhs": 994
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08557,
+          "endring": {
+            "samme": 0.08557,
+            "ekvivalent": 0.08557
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 11
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.50501,
+          "endring": {
+            "samme": 1.3573,
+            "ekvivalent": 1.25324
+          },
+          "antall": {
+            "total": 299,
+            "fhs": 150
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12584,
+          "endring": {
+            "samme": 0.12584,
+            "ekvivalent": -2.45179
+          },
+          "antall": {
+            "total": 25,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.24161,
+          "endring": {
+            "samme": -0.26061,
+            "ekvivalent": -0.07011
+          },
+          "antall": {
+            "total": 48,
+            "fhs": 25
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.052,
+          "endring": {
+            "samme": 1.052,
+            "ekvivalent": 1.052
+          },
+          "antall": {
+            "total": 209,
+            "fhs": 96
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.55872,
+          "endring": {
+            "samme": 0.06635,
+            "ekvivalent": -0.06471
+          },
+          "antall": {
+            "total": 111,
+            "fhs": 61
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16107,
+          "endring": {
+            "samme": -0.0408,
+            "ekvivalent": -0.1926
+          },
+          "antall": {
+            "total": 32,
+            "fhs": 17
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.11074,
+          "endring": {
+            "samme": 0.11074,
+            "ekvivalent": 0.11074
+          },
+          "antall": {
+            "total": 22,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.62415,
+          "endring": {
+            "samme": 0.62415,
+            "ekvivalent": 0.62415
+          },
+          "antall": {
+            "total": 124,
+            "fhs": 77
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.17114,
+          "endring": {
+            "samme": 0.17114,
+            "ekvivalent": 0.17114
+          },
+          "antall": {
+            "total": 34,
+            "fhs": 17
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.58892,
+          "endring": {
+            "samme": -0.17425,
+            "ekvivalent": -1.26937
+          },
+          "antall": {
+            "total": 117,
+            "fhs": 40
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.63583,
+          "endring": {
+            "samme": 3.29166,
+            "ekvivalent": 0.51762
+          },
+          "antall": {
+            "total": 921,
+            "fhs": 478
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.24618,
+            "ekvivalent": -0.15586
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/08/3806/0000",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T08:00:19",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/08/3806/0001",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/osebakken%2Fborge",
+        "navn": "Osebakken/Borge",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:43:59",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/08/3806/0002",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/stridsklev",
+        "navn": "Stridsklev",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:10:01",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/08/3806/0003",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/midtbyen%2Fnedre+bydel",
+        "navn": "Midtbyen/Nedre bydel",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:35:42",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/08/3806/0004",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/vestsiden",
+        "navn": "Vestsiden",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:32:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/08/3806/0005",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/bergsbygda",
+        "navn": "Bergsbygda",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:03:38",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2021/st/08/3806/0006",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/bj%C3%B8rkedalen",
+        "navn": "Bjørkedalen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:03:47",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/08/3806/0007",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/gr%C3%B8nli",
+        "navn": "Grønli",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:32:34",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2021/st/08/3806/0008",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/heistad",
+        "navn": "Heistad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:26:16",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/08/3806/0009",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/klevstrand%2Fher%C3%B8ya",
+        "navn": "Klevstrand/Herøya",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:26:16",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2021/st/08/3806/0010",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/langangen",
+        "navn": "Langangen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:03:47",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/08/3806/0011",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/myrene",
+        "navn": "Myrene",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:32:43",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2021/st/08/3806/0012",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/brevik",
+        "navn": "Brevik",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:16:43",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2021/st/08/3806/0013",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/sand%C3%B8ya%2F%C3%B8yene",
+        "navn": "Sandøya/Øyene",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:03:47",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2021/st/08/3806/0014",
+        "hrefNavn": "/2021/st/telemark/porsgrunn/tveten",
+        "navn": "Tveten",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:33:02",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "3806",
+      "href": "/2021/st/08/3806",
+      "hrefNavn": "/2021/st/telemark/porsgrunn",
+      "navn": "Porsgrunn",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 27.1,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "08",
+      "href": "/2021/st/08",
+      "hrefNavn": "/2021/st/telemark",
+      "navn": "Telemark"
+    }
+  }
+}

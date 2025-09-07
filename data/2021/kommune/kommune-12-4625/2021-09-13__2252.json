@@ -1,0 +1,571 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Austevoll",
+    "nr": "4625"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T22:26:50",
+    "sisteStemmer": "2021-09-13T22:26:35"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 3530,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 2772,
+    "fhs": 1317,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 2793,
+    "fhsGodkjente": 1337,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 78.5,
+    "endring": -4.5,
+    "prosentStemmegiving": 79.1
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 52.5,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 13.6215,
+          "endring": {
+            "samme": -0.25662,
+            "ekvivalent": -0.21217
+          },
+          "antall": {
+            "total": 375,
+            "fhs": 192
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.4871,
+          "endring": {
+            "samme": 0.17608,
+            "ekvivalent": 0.64735
+          },
+          "antall": {
+            "total": 96,
+            "fhs": 49
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.07047,
+          "endring": {
+            "samme": 1.47167,
+            "ekvivalent": 0.81286
+          },
+          "antall": {
+            "total": 57,
+            "fhs": 32
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.08318,
+          "endring": {
+            "samme": 1.51784,
+            "ekvivalent": 0.55174
+          },
+          "antall": {
+            "total": 195,
+            "fhs": 92
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.42935,
+          "endring": {
+            "samme": -0.9324,
+            "ekvivalent": 1.15552
+          },
+          "antall": {
+            "total": 177,
+            "fhs": 83
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.56193,
+          "endring": {
+            "samme": 0.22343,
+            "ekvivalent": -2.49486
+          },
+          "antall": {
+            "total": 43,
+            "fhs": 24
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.45296,
+          "endring": {
+            "samme": -0.76613,
+            "ekvivalent": 0.56047
+          },
+          "antall": {
+            "total": 40,
+            "fhs": 19
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 36.14239,
+          "endring": {
+            "samme": -4.96363,
+            "ekvivalent": 11.43651
+          },
+          "antall": {
+            "total": 995,
+            "fhs": 470
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 25.20886,
+          "endring": {
+            "samme": 1.99646,
+            "ekvivalent": -8.5031
+          },
+          "antall": {
+            "total": 694,
+            "fhs": 299
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03632,
+          "endring": {
+            "samme": 0.03632,
+            "ekvivalent": 0.03632
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.98075,
+          "endring": {
+            "samme": 0.87508,
+            "ekvivalent": 0.81848
+          },
+          "antall": {
+            "total": 27,
+            "fhs": 18
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10897,
+          "endring": {
+            "samme": 0.10897,
+            "ekvivalent": -4.27237
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03632,
+          "endring": {
+            "samme": -0.17502,
+            "ekvivalent": -0.24765
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.36324,
+          "endring": {
+            "samme": 0.36324,
+            "ekvivalent": 0.36324
+          },
+          "antall": {
+            "total": 10,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.79913,
+          "endring": {
+            "samme": 0.23555,
+            "ekvivalent": -0.70189
+          },
+          "antall": {
+            "total": 22,
+            "fhs": 14
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07265,
+          "endring": {
+            "samme": -0.17392,
+            "ekvivalent": 0.07265
+          },
+          "antall": {
+            "total": 2,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03632,
+          "endring": {
+            "samme": -0.06935,
+            "ekvivalent": -0.00424
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NKP",
+        "navn": "Norges Kommunistiske Parti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": 0,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03632,
+          "endring": {
+            "samme": 0.0011,
+            "ekvivalent": -0.16652
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.43589,
+          "endring": {
+            "samme": 0.43589,
+            "ekvivalent": 0.11134
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": 0,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.69016,
+          "endring": {
+            "samme": 0.12658,
+            "ekvivalent": -1.33824
+          },
+          "antall": {
+            "total": 19,
+            "fhs": 7
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "GT",
+        "navn": "Generasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03632,
+          "endring": {
+            "samme": 0.03632,
+            "ekvivalent": 0.03632
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.94224,
+          "endring": {
+            "samme": 1.67419,
+            "ekvivalent": -3.95431
+          },
+          "antall": {
+            "total": 81,
+            "fhs": 50
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.14089,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [],
+    "self": {
+      "nr": "4625",
+      "href": "/2021/st/12/4625",
+      "hrefNavn": "/2021/st/hordaland/austevoll",
+      "navn": "Austevoll",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 52.5,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "12",
+      "href": "/2021/st/12",
+      "hrefNavn": "/2021/st/hordaland",
+      "navn": "Hordaland"
+    }
+  }
+}

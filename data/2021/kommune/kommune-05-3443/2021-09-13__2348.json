@@ -1,0 +1,590 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Vestre Toten",
+    "nr": "3443"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T23:45:39",
+    "sisteStemmer": "2021-09-13T23:45:30"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 10498,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 7431,
+    "fhs": 2887,
+    "totalForkastede": 6,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 7655,
+    "fhsGodkjente": 3112,
+    "totalForkastede": 1,
+    "fhsForkastede": 1
+  },
+  "frammote": {
+    "prosent": 71,
+    "endring": -3.9,
+    "prosentStemmegiving": 73.1
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 61,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 38.16182,
+          "endring": {
+            "samme": 0.72144,
+            "ekvivalent": 0.29111
+          },
+          "antall": {
+            "total": 2811,
+            "fhs": 1172
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.67907,
+          "endring": {
+            "samme": -0.20276,
+            "ekvivalent": 0.9633
+          },
+          "antall": {
+            "total": 271,
+            "fhs": 126
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.09992,
+          "endring": {
+            "samme": 1.90066,
+            "ekvivalent": 0.10125
+          },
+          "antall": {
+            "total": 302,
+            "fhs": 148
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 21.0019,
+          "endring": {
+            "samme": 5.76608,
+            "ekvivalent": -1.64055
+          },
+          "antall": {
+            "total": 1547,
+            "fhs": 481
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.80559,
+          "endring": {
+            "samme": -0.39366,
+            "ekvivalent": -0.11043
+          },
+          "antall": {
+            "total": 133,
+            "fhs": 52
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.58838,
+          "endring": {
+            "samme": -0.31941,
+            "ekvivalent": -2.46027
+          },
+          "antall": {
+            "total": 117,
+            "fhs": 74
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.19929,
+          "endring": {
+            "samme": -0.19869,
+            "ekvivalent": 0.4832
+          },
+          "antall": {
+            "total": 162,
+            "fhs": 71
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.93782,
+          "endring": {
+            "samme": -4.17929,
+            "ekvivalent": -1.7073
+          },
+          "antall": {
+            "total": 953,
+            "fhs": 356
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 11.4852,
+          "endring": {
+            "samme": -4.3998,
+            "ekvivalent": 4.12099
+          },
+          "antall": {
+            "total": 846,
+            "fhs": 300
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08146,
+          "endring": {
+            "samme": 0.08146,
+            "ekvivalent": 0.08146
+          },
+          "antall": {
+            "total": 6,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.34401,
+          "endring": {
+            "samme": 1.17178,
+            "ekvivalent": 0.61092
+          },
+          "antall": {
+            "total": 99,
+            "fhs": 44
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08146,
+          "endring": {
+            "samme": 0.08146,
+            "ekvivalent": 0.08146
+          },
+          "antall": {
+            "total": 6,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.20364,
+          "endring": {
+            "samme": -0.3528,
+            "ekvivalent": -0.11292
+          },
+          "antall": {
+            "total": 15,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.10861,
+          "endring": {
+            "samme": 0.10861,
+            "ekvivalent": 0.10861
+          },
+          "antall": {
+            "total": 8,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.32582,
+          "endring": {
+            "samme": 0.15359,
+            "ekvivalent": -0.17401
+          },
+          "antall": {
+            "total": 24,
+            "fhs": 7
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.19006,
+          "endring": {
+            "samme": 0.04433,
+            "ekvivalent": -0.10984
+          },
+          "antall": {
+            "total": 14,
+            "fhs": 6
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.01358,
+          "endring": {
+            "samme": 0.01358,
+            "ekvivalent": 0.01358
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.55661,
+          "endring": {
+            "samme": 0.03992,
+            "ekvivalent": -0.67631
+          },
+          "antall": {
+            "total": 41,
+            "fhs": 15
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.13576,
+          "endring": {
+            "samme": 0.13576,
+            "ekvivalent": 0.13576
+          },
+          "antall": {
+            "total": 10,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.88243,
+          "endring": {
+            "samme": -0.08471,
+            "ekvivalent": -1.21687
+          },
+          "antall": {
+            "total": 65,
+            "fhs": 18
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.041,
+          "endring": {
+            "samme": 1.47767,
+            "ekvivalent": -0.04131
+          },
+          "antall": {
+            "total": 224,
+            "fhs": 89
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.17223,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/05/3443/0000",
+        "hrefNavn": "/2021/st/oppland/vestre+toten/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-12T16:02:05",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/05/3443/0001",
+        "hrefNavn": "/2021/st/oppland/vestre+toten/raufoss",
+        "navn": "Raufoss",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:45:39",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/05/3443/0002",
+        "hrefNavn": "/2021/st/oppland/vestre+toten/reinsvoll",
+        "navn": "Reinsvoll",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:08:11",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/05/3443/0003",
+        "hrefNavn": "/2021/st/oppland/vestre+toten/ihle",
+        "navn": "Ihle",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:36:00",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/05/3443/0004",
+        "hrefNavn": "/2021/st/oppland/vestre+toten/b%C3%B8verbru",
+        "navn": "Bøverbru",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:56:11",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/05/3443/0005",
+        "hrefNavn": "/2021/st/oppland/vestre+toten/eina",
+        "navn": "Eina",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:47:31",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "3443",
+      "href": "/2021/st/05/3443",
+      "hrefNavn": "/2021/st/oppland/vestre+toten",
+      "navn": "Vestre Toten",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 61,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "05",
+      "href": "/2021/st/05",
+      "hrefNavn": "/2021/st/oppland",
+      "navn": "Oppland"
+    }
+  }
+}

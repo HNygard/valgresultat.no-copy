@@ -1,0 +1,628 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Sunnfjord",
+    "nr": "4647"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T23:10:45",
+    "sisteStemmer": "2021-09-13T23:10:36"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 15798,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 12291,
+    "fhs": 6981,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 12320,
+    "fhsGodkjente": 7003,
+    "totalForkastede": 3,
+    "fhsForkastede": 3
+  },
+  "frammote": {
+    "prosent": 77.9,
+    "endring": -2.3,
+    "prosentStemmegiving": 78.1
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 1.2,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 26.58052,
+          "endring": {
+            "samme": 2.58084,
+            "ekvivalent": 4.1685
+          },
+          "antall": {
+            "total": 3250,
+            "fhs": 1878
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.27897,
+          "endring": {
+            "samme": 1.24035,
+            "ekvivalent": -0.52463
+          },
+          "antall": {
+            "total": 890,
+            "fhs": 570
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.77034,
+          "endring": {
+            "samme": 2.5235,
+            "ekvivalent": 1.32472
+          },
+          "antall": {
+            "total": 461,
+            "fhs": 315
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 26.25337,
+          "endring": {
+            "samme": -2.52179,
+            "ekvivalent": -6.0345
+          },
+          "antall": {
+            "total": 3210,
+            "fhs": 1675
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.15474,
+          "endring": {
+            "samme": -0.6126,
+            "ekvivalent": -0.93254
+          },
+          "antall": {
+            "total": 508,
+            "fhs": 267
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.15695,
+          "endring": {
+            "samme": 0.57362,
+            "ekvivalent": -1.71564
+          },
+          "antall": {
+            "total": 386,
+            "fhs": 264
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.96066,
+          "endring": {
+            "samme": -0.67392,
+            "ekvivalent": -1.57588
+          },
+          "antall": {
+            "total": 362,
+            "fhs": 196
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 16.59442,
+          "endring": {
+            "samme": -3.68917,
+            "ekvivalent": 2.18203
+          },
+          "antall": {
+            "total": 2029,
+            "fhs": 1169
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.84551,
+          "endring": {
+            "samme": -0.93707,
+            "ekvivalent": 3.71846
+          },
+          "antall": {
+            "total": 837,
+            "fhs": 440
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04089,
+          "endring": {
+            "samme": 0.04089,
+            "ekvivalent": 0.04089
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.63793,
+          "endring": {
+            "samme": 0.58089,
+            "ekvivalent": 0.54459
+          },
+          "antall": {
+            "total": 78,
+            "fhs": 38
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16357,
+          "endring": {
+            "samme": -0.01571,
+            "ekvivalent": 0.00489
+          },
+          "antall": {
+            "total": 20,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.52343,
+          "endring": {
+            "samme": 0.52343,
+            "ekvivalent": 0.52343
+          },
+          "antall": {
+            "total": 64,
+            "fhs": 42
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.42529,
+          "endring": {
+            "samme": -0.04737,
+            "ekvivalent": -0.67618
+          },
+          "antall": {
+            "total": 52,
+            "fhs": 32
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12268,
+          "endring": {
+            "samme": 0.00859,
+            "ekvivalent": 0.02933
+          },
+          "antall": {
+            "total": 15,
+            "fhs": 9
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.28625,
+          "endring": {
+            "samme": 0.28625,
+            "ekvivalent": -0.05912
+          },
+          "antall": {
+            "total": 35,
+            "fhs": 25
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.20447,
+          "endring": {
+            "samme": 0.20447,
+            "ekvivalent": 0.20447
+          },
+          "antall": {
+            "total": 25,
+            "fhs": 10
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.52343,
+          "endring": {
+            "samme": 0.04262,
+            "ekvivalent": -0.58737
+          },
+          "antall": {
+            "total": 64,
+            "fhs": 35
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.40451,
+          "endring": {
+            "samme": 1.58144,
+            "ekvivalent": 0.6123
+          },
+          "antall": {
+            "total": 294,
+            "fhs": 172
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.06519,
+            "ekvivalent": -1.22281
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/14/4647/0000",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T17:02:16",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/14/4647/0002",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/holsen",
+        "navn": "Holsen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:10:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/14/4647/0007",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/karstad",
+        "navn": "Karstad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:10:45",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2021/st/14/4647/0009",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/skei",
+        "navn": "Skei",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:12:57",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2021/st/14/4647/0011",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/vassenden",
+        "navn": "Vassenden",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:12:57",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2021/st/14/4647/0014",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/viksdalen",
+        "navn": "Viksdalen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:13:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2021/st/14/4647/0015",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/sande",
+        "navn": "Sande",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:13:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2021/st/14/4647/0016",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/bygstad",
+        "navn": "Bygstad",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:13:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2021/st/14/4647/0017",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/vevring",
+        "navn": "Vevring",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:13:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0018",
+        "href": "/2021/st/14/4647/0018",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/naustdal",
+        "navn": "Naustdal",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:13:06",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0019",
+        "href": "/2021/st/14/4647/0019",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/dalen",
+        "navn": "Dalen",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:13:15",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0020",
+        "href": "/2021/st/14/4647/0020",
+        "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord/f%C3%B8rde+og+haukedalen+",
+        "navn": "Førde og Haukedalen ",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:10:45",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "4647",
+      "href": "/2021/st/14/4647",
+      "hrefNavn": "/2021/st/sogn+og+fjordane/sunnfjord",
+      "navn": "Sunnfjord",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 1.2,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "14",
+      "href": "/2021/st/14",
+      "hrefNavn": "/2021/st/sogn+og+fjordane",
+      "navn": "Sogn og Fjordane"
+    }
+  }
+}

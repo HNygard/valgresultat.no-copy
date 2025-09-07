@@ -1,0 +1,1388 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "fylke",
+    "navn": "Rogaland",
+    "nr": "11"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-14T17:10:18",
+    "sisteStemmer": "2021-09-14T17:09:51"
+  },
+  "merknader": [],
+  "antallsb": 333475,
+  "mandater": {
+    "antall": 14,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 253208,
+    "fhs": 143254,
+    "totalForkastede": 128,
+    "fhsForkastede": 14
+  },
+  "stemmegiving": {
+    "totalGodkjente": 259569,
+    "fhsGodkjente": 149616,
+    "totalForkastede": 148,
+    "fhsForkastede": 76
+  },
+  "frammote": {
+    "prosent": 76.1,
+    "endring": -2.5,
+    "prosentStemmegiving": 78.2
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 47.8,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 22.37918,
+          "endring": {
+            "samme": -0.18606,
+            "ekvivalent": 0.03528
+          },
+          "antall": {
+            "total": 56334,
+            "fhs": 31480
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 3,
+          "endring": -1,
+          "sisteMandat": {
+            "kvotient": 11266.8,
+            "mandatrang": 10
+          },
+          "nesteMandat": {
+            "kvotient": 8047.71429,
+            "mandatrang": 15
+          },
+          "utjevningAntall": 0,
+          "representanter": [
+            {
+              "navn": "Hadia Tajik",
+              "kjonn": "K",
+              "alder": 38,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Torstein Tvedt Solberg",
+              "kjonn": "M",
+              "alder": 36,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Tove Elise Madland",
+              "kjonn": "K",
+              "alder": 56,
+              "utjevningsmandat": false
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "Tom Kalsås",
+              "kjonn": "M",
+              "alder": 35
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.95501,
+          "endring": {
+            "samme": 0.99196,
+            "ekvivalent": 0.88473
+          },
+          "antall": {
+            "total": 12473,
+            "fhs": 7691
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 1,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 8909.28571,
+            "mandatrang": 11
+          },
+          "nesteMandat": {
+            "kvotient": 4157.66667,
+            "mandatrang": 29
+          },
+          "utjevningAntall": 0,
+          "representanter": [
+            {
+              "navn": "Ingrid Fiskaa",
+              "kjonn": "K",
+              "alder": 44,
+              "utjevningsmandat": false
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "Paal Kloster",
+              "kjonn": "M",
+              "alder": 58
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.68656,
+          "endring": {
+            "samme": 2.52132,
+            "ekvivalent": 1.33764
+          },
+          "antall": {
+            "total": 9280,
+            "fhs": 5702
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 1,
+          "endring": 1,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 6628.57143,
+            "mandatrang": 18
+          },
+          "utjevningAntall": 1,
+          "representanter": [
+            {
+              "navn": "Mímir Kristjánsson",
+              "kjonn": "M",
+              "alder": 35,
+              "utjevningsmandat": true
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "Emma Watne",
+              "kjonn": "K",
+              "alder": 33
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 10.47611,
+          "endring": {
+            "samme": 3.15796,
+            "ekvivalent": -0.05711
+          },
+          "antall": {
+            "total": 26371,
+            "fhs": 13305
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 2,
+          "endring": 1,
+          "sisteMandat": {
+            "kvotient": 8790.33333,
+            "mandatrang": 12
+          },
+          "nesteMandat": {
+            "kvotient": 5274.2,
+            "mandatrang": 23
+          },
+          "utjevningAntall": 0,
+          "representanter": [
+            {
+              "navn": "Geir Pollestad",
+              "kjonn": "M",
+              "alder": 43,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Lisa Marie Ness Klungland",
+              "kjonn": "K",
+              "alder": 27,
+              "utjevningsmandat": false
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "Tor Inge Eidesen",
+              "kjonn": "M",
+              "alder": 57
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 8.08501,
+          "endring": {
+            "samme": -0.23383,
+            "ekvivalent": -0.46617
+          },
+          "antall": {
+            "total": 20352,
+            "fhs": 11398
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 1,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 14537.14286,
+            "mandatrang": 7
+          },
+          "nesteMandat": {
+            "kvotient": 6784,
+            "mandatrang": 16
+          },
+          "utjevningAntall": 0,
+          "representanter": [
+            {
+              "navn": "Olaug Vervik Bollestad",
+              "kjonn": "K",
+              "alder": 59,
+              "utjevningsmandat": false
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "Hadle Rasmus Bjuland",
+              "kjonn": "M",
+              "alder": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.36607,
+          "endring": {
+            "samme": -0.21449,
+            "ekvivalent": -2.72416
+          },
+          "antall": {
+            "total": 5956,
+            "fhs": 4105
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 4254.28571,
+            "mandatrang": 28
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Ulrikke Torgersen",
+              "kjonn": "K",
+              "alder": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.38504,
+          "endring": {
+            "samme": -0.15447,
+            "ekvivalent": 0.35706
+          },
+          "antall": {
+            "total": 8521,
+            "fhs": 4674
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 6086.42857,
+            "mandatrang": 21
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Iselin Nybø",
+              "kjonn": "K",
+              "alder": 40
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 24.00596,
+          "endring": {
+            "samme": -4.78231,
+            "ekvivalent": 1.90497
+          },
+          "antall": {
+            "total": 60429,
+            "fhs": 35648
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 4,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": 8632.71429,
+            "mandatrang": 13
+          },
+          "nesteMandat": {
+            "kvotient": 6714.33333,
+            "mandatrang": 17
+          },
+          "utjevningAntall": 0,
+          "representanter": [
+            {
+              "navn": "Tina Bru",
+              "kjonn": "K",
+              "alder": 35,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Sveinung Stensland",
+              "kjonn": "M",
+              "alder": 48,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Margret Hagerup",
+              "kjonn": "K",
+              "alder": 41,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Aleksander Stokkebø",
+              "kjonn": "M",
+              "alder": 26,
+              "utjevningsmandat": false
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "Irene Heng Lauvsnes",
+              "kjonn": "K",
+              "alder": 53
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 16.93078,
+          "endring": {
+            "samme": -2.81883,
+            "ekvivalent": 4.2838
+          },
+          "antall": {
+            "total": 42619,
+            "fhs": 22907
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 2,
+          "endring": -1,
+          "sisteMandat": {
+            "kvotient": 14206.33333,
+            "mandatrang": 8
+          },
+          "nesteMandat": {
+            "kvotient": 8523.8,
+            "mandatrang": 14
+          },
+          "utjevningAntall": 0,
+          "representanter": [
+            {
+              "navn": "Roy Steffensen",
+              "kjonn": "M",
+              "alder": 41,
+              "utjevningsmandat": false
+            },
+            {
+              "navn": "Terje Halleland",
+              "kjonn": "M",
+              "alder": 55,
+              "utjevningsmandat": false
+            }
+          ],
+          "nesteKandidater": [
+            {
+              "navn": "May Helen Hetland Ervik",
+              "kjonn": "K",
+              "alder": 51
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.08144,
+          "endring": {
+            "samme": 0.08144,
+            "ekvivalent": 0.08144
+          },
+          "antall": {
+            "total": 205,
+            "fhs": 114
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 146.42857,
+            "mandatrang": 150
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Arvid Gimre",
+              "kjonn": "M",
+              "alder": 51
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.03248,
+          "endring": {
+            "samme": 0.93764,
+            "ekvivalent": 0.86339
+          },
+          "antall": {
+            "total": 2599,
+            "fhs": 1619
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 1856.42857,
+            "mandatrang": 59
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Vidar Kleppe",
+              "kjonn": "M",
+              "alder": 57
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12315,
+          "endring": {
+            "samme": 0.12315,
+            "ekvivalent": -6.28739
+          },
+          "antall": {
+            "total": 310,
+            "fhs": 149
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 221.42857,
+            "mandatrang": 138
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Frode Myrhol",
+              "kjonn": "M",
+              "alder": 49
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.19307,
+          "endring": {
+            "samme": -0.0185,
+            "ekvivalent": 0.19307
+          },
+          "antall": {
+            "total": 486,
+            "fhs": 264
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 347.14286,
+            "mandatrang": 124
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Sofie Hexeberg",
+              "kjonn": "K",
+              "alder": 61
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.64118,
+          "endring": {
+            "samme": 0.64118,
+            "ekvivalent": 0.64118
+          },
+          "antall": {
+            "total": 1614,
+            "fhs": 1007
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 1152.85714,
+            "mandatrang": 77
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Owe Ingemann Waltherzøe",
+              "kjonn": "M",
+              "alder": 58
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.54623,
+          "endring": {
+            "samme": 0.05095,
+            "ekvivalent": -0.40081
+          },
+          "antall": {
+            "total": 1375,
+            "fhs": 734
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 982.14286,
+            "mandatrang": 83
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "John Erik Selle",
+              "kjonn": "M",
+              "alder": 55
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16367,
+          "endring": {
+            "samme": -0.09491,
+            "ekvivalent": -0.14669
+          },
+          "antall": {
+            "total": 412,
+            "fhs": 217
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 294.28571,
+            "mandatrang": 128
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Ronny Skjæveland",
+              "kjonn": "M",
+              "alder": 42
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07866,
+          "endring": {
+            "samme": -0.10049,
+            "ekvivalent": 0.07866
+          },
+          "antall": {
+            "total": 198,
+            "fhs": 88
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 141.42857,
+            "mandatrang": 151
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Olav Johannes Handeland",
+              "kjonn": "M",
+              "alder": 42
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.52359,
+          "endring": {
+            "samme": 0.03195,
+            "ekvivalent": -0.79033
+          },
+          "antall": {
+            "total": 1318,
+            "fhs": 953
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 941.42857,
+            "mandatrang": 87
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Karl W. Sandvig",
+              "kjonn": "M",
+              "alder": 71
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.34681,
+          "endring": {
+            "samme": 0.34681,
+            "ekvivalent": 0.34681
+          },
+          "antall": {
+            "total": 873,
+            "fhs": 517
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 623.57143,
+            "mandatrang": 100
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": [
+            {
+              "navn": "Maria Heskestad Lund",
+              "kjonn": "K",
+              "alder": 42
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.58913,
+          "endring": {
+            "samme": 0.01482,
+            "ekvivalent": -0.8451
+          },
+          "antall": {
+            "total": 1483,
+            "fhs": 682
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.73026,
+          "endring": {
+            "samme": 1.99921,
+            "ekvivalent": -5.42068
+          },
+          "antall": {
+            "total": 9390,
+            "fhs": 5662
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": 1856.42857,
+            "mandatrang": 59
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.28047,
+            "ekvivalent": -0.13536
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "sisteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "nesteMandat": {
+            "kvotient": null,
+            "mandatrang": null
+          },
+          "utjevningAntall": 0,
+          "representanter": [],
+          "nesteKandidater": []
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "1101",
+        "href": "/2021/st/11/1101",
+        "hrefNavn": "/2021/st/rogaland/eigersund",
+        "navn": "Eigersund",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 40.7,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T12:35:10",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1103",
+        "href": "/2021/st/11/1103",
+        "hrefNavn": "/2021/st/rogaland/stavanger",
+        "navn": "Stavanger",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 42.1,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:14:08",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1106",
+        "href": "/2021/st/11/1106",
+        "hrefNavn": "/2021/st/rogaland/haugesund",
+        "navn": "Haugesund",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 32.9,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:45:02",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1108",
+        "href": "/2021/st/11/1108",
+        "hrefNavn": "/2021/st/rogaland/sandnes",
+        "navn": "Sandnes",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 52.3,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T16:49:52",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1111",
+        "href": "/2021/st/11/1111",
+        "hrefNavn": "/2021/st/rogaland/sokndal",
+        "navn": "Sokndal",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:06:39",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1112",
+        "href": "/2021/st/11/1112",
+        "hrefNavn": "/2021/st/rogaland/lund",
+        "navn": "Lund",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 55.2,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:17:18",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1114",
+        "href": "/2021/st/11/1114",
+        "hrefNavn": "/2021/st/rogaland/bjerkreim",
+        "navn": "Bjerkreim",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 45.3,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:23:37",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1119",
+        "href": "/2021/st/11/1119",
+        "hrefNavn": "/2021/st/rogaland/h%C3%A5",
+        "navn": "Hå",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 99.8,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:09:56",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1120",
+        "href": "/2021/st/11/1120",
+        "hrefNavn": "/2021/st/rogaland/klepp",
+        "navn": "Klepp",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:02:23",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1121",
+        "href": "/2021/st/11/1121",
+        "hrefNavn": "/2021/st/rogaland/time",
+        "navn": "Time",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 48.1,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T08:54:21",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1122",
+        "href": "/2021/st/11/1122",
+        "hrefNavn": "/2021/st/rogaland/gjesdal",
+        "navn": "Gjesdal",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 45.6,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T09:43:22",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1124",
+        "href": "/2021/st/11/1124",
+        "hrefNavn": "/2021/st/rogaland/sola",
+        "navn": "Sola",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 38.2,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T13:23:59",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1127",
+        "href": "/2021/st/11/1127",
+        "hrefNavn": "/2021/st/rogaland/randaberg",
+        "navn": "Randaberg",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 41.6,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T09:57:41",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1130",
+        "href": "/2021/st/11/1130",
+        "hrefNavn": "/2021/st/rogaland/strand",
+        "navn": "Strand",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 48,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T00:08:59",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1133",
+        "href": "/2021/st/11/1133",
+        "hrefNavn": "/2021/st/rogaland/hjelmeland",
+        "navn": "Hjelmeland",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 63.6,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:05:22",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1134",
+        "href": "/2021/st/11/1134",
+        "hrefNavn": "/2021/st/rogaland/suldal",
+        "navn": "Suldal",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T20:53:25",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1135",
+        "href": "/2021/st/11/1135",
+        "hrefNavn": "/2021/st/rogaland/sauda",
+        "navn": "Sauda",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 29.6,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T10:34:52",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1144",
+        "href": "/2021/st/11/1144",
+        "hrefNavn": "/2021/st/rogaland/kvits%C3%B8y",
+        "navn": "Kvitsøy",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 48.9,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T20:39:27",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1145",
+        "href": "/2021/st/11/1145",
+        "hrefNavn": "/2021/st/rogaland/bokn",
+        "navn": "Bokn",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:02:29",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1146",
+        "href": "/2021/st/11/1146",
+        "hrefNavn": "/2021/st/rogaland/tysv%C3%A6r",
+        "navn": "Tysvær",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 42.5,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:15:51",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1149",
+        "href": "/2021/st/11/1149",
+        "hrefNavn": "/2021/st/rogaland/karm%C3%B8y",
+        "navn": "Karmøy",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 34.6,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:46:21",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "1151",
+        "href": "/2021/st/11/1151",
+        "hrefNavn": "/2021/st/rogaland/utsira",
+        "navn": "Utsira",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-14T17:00:32",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "1160",
+        "href": "/2021/st/11/1160",
+        "hrefNavn": "/2021/st/rogaland/vindafjord",
+        "navn": "Vindafjord",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 54.3,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:54:57",
+        "harUnderordnet": true
+      }
+    ],
+    "self": {
+      "nr": "11",
+      "href": "/2021/st/11",
+      "hrefNavn": "/2021/st/rogaland",
+      "navn": "Rogaland",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 47.8,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "0",
+      "href": "/2021/st",
+      "hrefNavn": "/2021/st",
+      "navn": "norge"
+    }
+  }
+}

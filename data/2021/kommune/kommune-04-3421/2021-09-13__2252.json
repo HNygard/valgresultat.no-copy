@@ -1,0 +1,511 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Trysil",
+    "nr": "3421"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T22:02:56",
+    "sisteStemmer": "2021-09-13T22:02:48"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 4987,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 3796,
+    "fhs": 1575,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 3898,
+    "fhsGodkjente": 1677,
+    "totalForkastede": 9,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 76.1,
+    "endring": -2,
+    "prosentStemmegiving": 78.2
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 58.5,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 31.55944,
+          "endring": {
+            "samme": 0.93412,
+            "ekvivalent": -2.57797
+          },
+          "antall": {
+            "total": 1192,
+            "fhs": 458
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.55388,
+          "endring": {
+            "samme": 0.96598,
+            "ekvivalent": 0.58441
+          },
+          "antall": {
+            "total": 172,
+            "fhs": 101
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.95923,
+          "endring": {
+            "samme": 1.52355,
+            "ekvivalent": 0.98213
+          },
+          "antall": {
+            "total": 74,
+            "fhs": 38
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 36.51046,
+          "endring": {
+            "samme": 0.81082,
+            "ekvivalent": -0.19183
+          },
+          "antall": {
+            "total": 1379,
+            "fhs": 510
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.66799,
+          "endring": {
+            "samme": -0.07471,
+            "ekvivalent": 0.0802
+          },
+          "antall": {
+            "total": 63,
+            "fhs": 19
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.2179,
+          "endring": {
+            "samme": 0.19278,
+            "ekvivalent": -1.07218
+          },
+          "antall": {
+            "total": 46,
+            "fhs": 33
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.40323,
+          "endring": {
+            "samme": -0.1857,
+            "ekvivalent": 0.51773
+          },
+          "antall": {
+            "total": 53,
+            "fhs": 37
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 10.56394,
+          "endring": {
+            "samme": -2.25,
+            "ekvivalent": -1.10018
+          },
+          "antall": {
+            "total": 399,
+            "fhs": 210
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 8.10167,
+          "endring": {
+            "samme": -2.84144,
+            "ekvivalent": 2.91083
+          },
+          "antall": {
+            "total": 306,
+            "fhs": 117
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05295,
+          "endring": {
+            "samme": 0.05295,
+            "ekvivalent": 0.05295
+          },
+          "antall": {
+            "total": 2,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.11199,
+          "endring": {
+            "samme": 0.88134,
+            "ekvivalent": 0.95932
+          },
+          "antall": {
+            "total": 42,
+            "fhs": 24
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FNB",
+        "navn": "Folkeaksjonen Nei til mer bompenger"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": 0,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.1059,
+          "endring": {
+            "samme": 0.00339,
+            "ekvivalent": -0.26051
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.1059,
+          "endring": {
+            "samme": 0.1059,
+            "ekvivalent": 0.1059
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.31771,
+          "endring": {
+            "samme": 0.16395,
+            "ekvivalent": -0.32351
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.21181,
+          "endring": {
+            "samme": -0.0701,
+            "ekvivalent": -0.21567
+          },
+          "antall": {
+            "total": 8,
+            "fhs": 5
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.45009,
+          "endring": {
+            "samme": -0.24186,
+            "ekvivalent": -0.55754
+          },
+          "antall": {
+            "total": 17,
+            "fhs": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07943,
+          "endring": {
+            "samme": 0.07943,
+            "ekvivalent": 0.07943
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.50304,
+          "endring": {
+            "samme": 0.01611,
+            "ekvivalent": -2.18398
+          },
+          "antall": {
+            "total": 19,
+            "fhs": 7
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "RN",
+        "navn": "Redd Naturen"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02648,
+          "endring": {
+            "samme": 0.02648,
+            "ekvivalent": 0.02648
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.46227,
+          "endring": {
+            "samme": 1.00148,
+            "ekvivalent": -0.13315
+          },
+          "antall": {
+            "total": 93,
+            "fhs": 45
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.07688,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [],
+    "self": {
+      "nr": "3421",
+      "href": "/2021/st/04/3421",
+      "hrefNavn": "/2021/st/hedmark/trysil",
+      "navn": "Trysil",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 58.5,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "04",
+      "href": "/2021/st/04",
+      "hrefNavn": "/2021/st/hedmark",
+      "navn": "Hedmark"
+    }
+  }
+}

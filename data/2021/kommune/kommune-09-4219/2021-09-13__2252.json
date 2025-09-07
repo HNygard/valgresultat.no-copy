@@ -1,0 +1,531 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Evje og Hornnes",
+    "nr": "4219"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T21:43:09",
+    "sisteStemmer": "2021-09-13T21:42:57"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 2645,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 1950,
+    "fhs": 967,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 1981,
+    "fhsGodkjente": 998,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": 73.7,
+    "endring": -1.4,
+    "prosentStemmegiving": 74.9
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 50.4,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 23.60825,
+          "endring": {
+            "samme": -0.57611,
+            "ekvivalent": -0.90866
+          },
+          "antall": {
+            "total": 458,
+            "fhs": 244
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.12371,
+          "endring": {
+            "samme": 1.27545,
+            "ekvivalent": 1.70825
+          },
+          "antall": {
+            "total": 80,
+            "fhs": 48
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.31959,
+          "endring": {
+            "samme": 1.491,
+            "ekvivalent": 0.26645
+          },
+          "antall": {
+            "total": 45,
+            "fhs": 23
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 20.6701,
+          "endring": {
+            "samme": 6.89486,
+            "ekvivalent": 9.01551
+          },
+          "antall": {
+            "total": 401,
+            "fhs": 169
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 15.87629,
+          "endring": {
+            "samme": -3.49191,
+            "ekvivalent": -18.18168
+          },
+          "antall": {
+            "total": 308,
+            "fhs": 148
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.34021,
+          "endring": {
+            "samme": 0.04554,
+            "ekvivalent": -1.37719
+          },
+          "antall": {
+            "total": 26,
+            "fhs": 21
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.64948,
+          "endring": {
+            "samme": -0.42198,
+            "ekvivalent": -0.46404
+          },
+          "antall": {
+            "total": 32,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 13.81443,
+          "endring": {
+            "samme": -3.74124,
+            "ekvivalent": 3.79028
+          },
+          "antall": {
+            "total": 268,
+            "fhs": 145
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.42268,
+          "endring": {
+            "samme": -3.5276,
+            "ekvivalent": 6.38403
+          },
+          "antall": {
+            "total": 241,
+            "fhs": 112
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05155,
+          "endring": {
+            "samme": 0.05155,
+            "ekvivalent": 0.05155
+          },
+          "antall": {
+            "total": 1,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.01031,
+          "endring": {
+            "samme": 1.75138,
+            "ekvivalent": 0.92335
+          },
+          "antall": {
+            "total": 39,
+            "fhs": 21
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.15464,
+          "endring": {
+            "samme": -0.00072,
+            "ekvivalent": 0.03387
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.30928,
+          "endring": {
+            "samme": 0.30928,
+            "ekvivalent": 0.30928
+          },
+          "antall": {
+            "total": 6,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.72165,
+          "endring": {
+            "samme": 0.04842,
+            "ekvivalent": -0.24453
+          },
+          "antall": {
+            "total": 14,
+            "fhs": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.25773,
+          "endring": {
+            "samme": -0.0012,
+            "ekvivalent": -0.0442
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.15464,
+          "endring": {
+            "samme": 0.05107,
+            "ekvivalent": -0.57
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.25773,
+          "endring": {
+            "samme": -0.20835,
+            "ekvivalent": -0.95
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.25773,
+          "endring": {
+            "samme": 0.25773,
+            "ekvivalent": 0.25773
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.51546,
+          "endring": {
+            "samme": -0.15776,
+            "ekvivalent": -0.93381
+          },
+          "antall": {
+            "total": 10,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.17526,
+          "endring": {
+            "samme": 2.25915,
+            "ekvivalent": -0.23295
+          },
+          "antall": {
+            "total": 81,
+            "fhs": 41
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.20715,
+            "ekvivalent": 0
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/09/4219/0000",
+        "hrefNavn": "/2021/st/aust-agder/evje+og+hornnes/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 7.5,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:43:09",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2021/st/09/4219/0001",
+        "hrefNavn": "/2021/st/aust-agder/evje+og+hornnes/evje",
+        "navn": "Evje",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:39:05",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/09/4219/0002",
+        "hrefNavn": "/2021/st/aust-agder/evje+og+hornnes/hornnes",
+        "navn": "Hornnes",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:26:46",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "4219",
+      "href": "/2021/st/09/4219",
+      "hrefNavn": "/2021/st/aust-agder/evje+og+hornnes",
+      "navn": "Evje og Hornnes",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 50.4,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "09",
+      "href": "/2021/st/09",
+      "hrefNavn": "/2021/st/aust-agder",
+      "navn": "Aust-Agder"
+    }
+  }
+}

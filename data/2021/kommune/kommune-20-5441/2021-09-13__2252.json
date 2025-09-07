@@ -1,0 +1,550 @@
+{
+  "id": {
+    "valgaar": "2021",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Deatnu - Tana",
+    "nr": "5441"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2021-09-13T23:01:46",
+    "sisteStemmer": "2021-09-13T23:01:33"
+  },
+  "merknader": [
+    1
+  ],
+  "antallsb": 2226,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 1552,
+    "fhs": 690,
+    "totalForkastede": 1,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 1565,
+    "fhsGodkjente": 703,
+    "totalForkastede": 1,
+    "fhsForkastede": 1
+  },
+  "frammote": {
+    "prosent": 69.7,
+    "endring": -6.1,
+    "prosentStemmegiving": 70.3
+  },
+  "opptalt": {
+    "forelopigFhs": 100,
+    "forelopigVts": 100,
+    "forelopig": 100,
+    "endelig": 55.5,
+    "oppgjor": 0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 30.4799,
+          "endring": {
+            "samme": 0.6722,
+            "ekvivalent": 1.47125
+          },
+          "antall": {
+            "total": 470,
+            "fhs": 188
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.79896,
+          "endring": {
+            "samme": -7.28036,
+            "ekvivalent": -9.17309
+          },
+          "antall": {
+            "total": 74,
+            "fhs": 42
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.99351,
+          "endring": {
+            "samme": 3.7315,
+            "ekvivalent": 2.59831
+          },
+          "antall": {
+            "total": 77,
+            "fhs": 40
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 29.57198,
+          "endring": {
+            "samme": 7.33641,
+            "ekvivalent": -1.96494
+          },
+          "antall": {
+            "total": 456,
+            "fhs": 211
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.29702,
+          "endring": {
+            "samme": 0.035,
+            "ekvivalent": 0.23248
+          },
+          "antall": {
+            "total": 20,
+            "fhs": 10
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.07523,
+          "endring": {
+            "samme": 0.39253,
+            "ekvivalent": -0.05385
+          },
+          "antall": {
+            "total": 32,
+            "fhs": 25
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.62127,
+          "endring": {
+            "samme": -0.12152,
+            "ekvivalent": -0.37474
+          },
+          "antall": {
+            "total": 25,
+            "fhs": 12
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.29053,
+          "endring": {
+            "samme": -6.99072,
+            "ekvivalent": -0.96163
+          },
+          "antall": {
+            "total": 97,
+            "fhs": 46
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.71077,
+          "endring": {
+            "samme": -2.37337,
+            "ekvivalent": 3.99486
+          },
+          "antall": {
+            "total": 196,
+            "fhs": 78
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "AAN",
+        "navn": "Alliansen - Alternativ for Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.1297,
+          "endring": {
+            "samme": 0.1297,
+            "ekvivalent": 0.1297
+          },
+          "antall": {
+            "total": 2,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.02075,
+          "endring": {
+            "samme": 3.96066,
+            "ekvivalent": 4.02075
+          },
+          "antall": {
+            "total": 62,
+            "fhs": 23
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Helsepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.19455,
+          "endring": {
+            "samme": -0.04583,
+            "ekvivalent": 0.19455
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.38911,
+          "endring": {
+            "samme": 0.38911,
+            "ekvivalent": 0.38911
+          },
+          "antall": {
+            "total": 6,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Partiet De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.2594,
+          "endring": {
+            "samme": -0.22137,
+            "ekvivalent": -0.27287
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 2
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "LIBS",
+        "navn": "Liberalistene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.32425,
+          "endring": {
+            "samme": 0.02377,
+            "ekvivalent": -0.07495
+          },
+          "antall": {
+            "total": 5,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.2594,
+          "endring": {
+            "samme": 0.2594,
+            "ekvivalent": 0.2594
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.64851,
+          "endring": {
+            "samme": -0.25293,
+            "ekvivalent": -1.61363
+          },
+          "antall": {
+            "total": 10,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "PF",
+        "navn": "Pasientfokus"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.58366,
+          "endring": {
+            "samme": 0.58366,
+            "ekvivalent": 0.58366
+          },
+          "antall": {
+            "total": 9,
+            "fhs": 4
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.16083,
+          "endring": {
+            "samme": 5.0791,
+            "ekvivalent": 5.22936
+          },
+          "antall": {
+            "total": 95,
+            "fhs": 35
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0,
+          "endring": {
+            "samme": -0.48077,
+            "ekvivalent": -0.998
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2021/st/20/5441/0000",
+        "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "forelopigFhs": 100,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 0,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T23:01:46",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2021/st/20/5441/0002",
+        "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana/polmak%2Fb%C3%A5teng",
+        "navn": "Polmak/Båteng",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:55",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2021/st/20/5441/0003",
+        "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana/tana+bru",
+        "navn": "Tana bru",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T22:59:41",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2021/st/20/5441/0004",
+        "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana/austertana",
+        "navn": "Austertana",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:55",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2021/st/20/5441/0005",
+        "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana/boftsa",
+        "navn": "Boftsa",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:56",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2021/st/20/5441/0007",
+        "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana/tellekrets+1+og+6",
+        "navn": "Tellekrets 1 og 6",
+        "forelopigFhs": 0,
+        "forelopigVts": 100,
+        "forelopig": 100,
+        "endelig": 100,
+        "oppgjor": 0,
+        "rapportGenerert": "2021-09-13T21:53:48",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "5441",
+      "href": "/2021/st/20/5441",
+      "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku/deatnu+-+tana",
+      "navn": "Deatnu - Tana",
+      "forelopigFhs": 100,
+      "forelopigVts": 100,
+      "forelopig": 100,
+      "endelig": 55.5,
+      "oppgjor": 0
+    },
+    "up": {
+      "nr": "20",
+      "href": "/2021/st/20",
+      "hrefNavn": "/2021/st/finnmark+finnm%C3%A1rku",
+      "navn": "Finnmark Finnmárku"
+    }
+  }
+}
