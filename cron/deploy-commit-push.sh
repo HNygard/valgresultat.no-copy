@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Cronjob:
-# */10 * * * * /bin/bash /opt/valgresultater.no-copy/app/cron/deploy-commit-push.sh >> /opt/valgresultater.no-copy/logs/deploy-cronjob.log 2>&1
+# */10 * * * * /bin/bash /opt/valgresultat.no-copy/app/cron/deploy-commit-push.sh >> /opt/valgresultat.no-copy/logs/deploy-cronjob.log 2>&1
 
 # Navigate to the project directory
-cd /opt/valgresultater.no-copy/app || exit
+cd /opt/valgresultat.no-copy/app || exit
 
 # Fetch the latest changes from the remote repository
 git fetch origin main

@@ -4,7 +4,7 @@
 # See "deploy-commit.push.sh"
 
 # Navigate to the project directory
-#cd /opt/valgresultater.no-copy/app || exit
+cd /opt/valgresultat.no-copy/app || exit
 
 # Commit and push any new data changes
 if [[ -n $(git status --porcelain data) ]]; then
