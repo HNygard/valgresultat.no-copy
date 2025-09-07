@@ -1,0 +1,547 @@
+{
+  "id": {
+    "valgaar": "2013",
+    "valgtype": "ST",
+    "nivaa": "bydel",
+    "navn": "Sagene",
+    "nr": "3"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2023-05-11T12:52:21",
+    "sisteStemmer": "2013-09-26T10:42:55"
+  },
+  "merknader": [],
+  "antallsb": 28137,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 12543,
+    "fhs": 0,
+    "totalForkastede": 1,
+    "fhsForkastede": 0
+  },
+  "stemmegiving": {
+    "totalGodkjente": 12538,
+    "fhsGodkjente": 0,
+    "totalForkastede": 0,
+    "fhsForkastede": 0
+  },
+  "frammote": {
+    "prosent": null,
+    "endring": null,
+    "prosentStemmegiving": 44.6
+  },
+  "opptalt": {
+    "forelopigFhs": 0.0,
+    "forelopigVts": 100.0,
+    "forelopig": 100.0,
+    "endelig": 100.0,
+    "oppgjor": 100.0
+  },
+  "prognose": {
+    "beregnet": false,
+    "historiskTotalavvik": null
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 32.76759,
+          "endring": {
+            "samme": -5.9731
+          },
+          "antall": {
+            "total": 4093,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 10.71171,
+          "endring": {
+            "samme": -5.9989
+          },
+          "antall": {
+            "total": 1338,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.29109,
+          "endring": {
+            "samme": -1.08267
+          },
+          "antall": {
+            "total": 536,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.15283,
+          "endring": {
+            "samme": -0.26621
+          },
+          "antall": {
+            "total": 144,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.79401,
+          "endring": {
+            "samme": 0.01796
+          },
+          "antall": {
+            "total": 349,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 12.12873,
+          "endring": {
+            "samme": 2.83903
+          },
+          "antall": {
+            "total": 1515,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 19.9984,
+          "endring": {
+            "samme": 5.34269
+          },
+          "antall": {
+            "total": 2498,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.10912,
+          "endring": {
+            "samme": -2.72339
+          },
+          "antall": {
+            "total": 888,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Demokratene i Norge"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07205,
+          "endring": {
+            "samme": 0.02553
+          },
+          "antall": {
+            "total": 9,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DLF",
+        "navn": "Det Liberale Folkepartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04803,
+          "endring": {
+            "samme": 0.00151
+          },
+          "antall": {
+            "total": 6,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "De Kristne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.09607,
+          "endring": {
+            "samme": 0.09607
+          },
+          "antall": {
+            "total": 12,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KSP",
+        "navn": "Kristent Samlingsparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.03202,
+          "endring": {
+            "samme": -0.03777
+          },
+          "antall": {
+            "total": 4,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KYST",
+        "navn": "Kystpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02402,
+          "endring": {
+            "samme": -0.01475
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.73357,
+          "endring": {
+            "samme": 7.15975
+          },
+          "antall": {
+            "total": 966,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NKP",
+        "navn": "Norges Kommunistiske Parti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.05604,
+          "endring": {
+            "samme": 0.00951
+          },
+          "antall": {
+            "total": 7,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PIR",
+        "navn": "Piratpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.6965,
+          "endring": {
+            "samme": 0.6965
+          },
+          "antall": {
+            "total": 87,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.26419,
+          "endring": {
+            "samme": -0.03823
+          },
+          "antall": {
+            "total": 33,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "SFP",
+        "navn": "Samfunnspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02402,
+          "endring": {
+            "samme": 0.00075
+          },
+          "antall": {
+            "total": 3,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.4163,
+          "endring": {
+            "samme": 0.4163
+          },
+          "antall": {
+            "total": 52,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 9.04651,
+          "endring": {
+            "samme": 7.84459
+          },
+          "antall": {
+            "total": 1130,
+            "fhs": 0
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "endring": {
+            "samme": -0.05428
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0301",
+        "href": "/2013/st/03/0301/0301",
+        "hrefNavn": "/2013/st/oslo/oslo/sagene/sagene+samfunnshus",
+        "navn": "Sagene samfunnshus",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T12:52:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0302",
+        "href": "/2013/st/03/0301/0302",
+        "hrefNavn": "/2013/st/oslo/oslo/sagene/bj%C3%B8lsen+skole",
+        "navn": "Bjølsen skole",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T12:52:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0303",
+        "href": "/2013/st/03/0301/0303",
+        "hrefNavn": "/2013/st/oslo/oslo/sagene/nordpolen+skole",
+        "navn": "Nordpolen skole",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T12:52:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0304",
+        "href": "/2013/st/03/0301/0304",
+        "hrefNavn": "/2013/st/oslo/oslo/sagene/lilleborg+skole",
+        "navn": "Lilleborg skole",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T12:52:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0305",
+        "href": "/2013/st/03/0301/0305",
+        "hrefNavn": "/2013/st/oslo/oslo/sagene/sagene+festivitetshus",
+        "navn": "Sagene festivitetshus",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T12:52:20",
+        "harUnderordnet": false
+      },
+      {
+        "nr": "0306",
+        "href": "/2013/st/03/0301/0306",
+        "hrefNavn": "/2013/st/oslo/oslo/sagene/grefsenveien+28%2C+selskapslokale",
+        "navn": "Grefsenveien 28, selskapslokale",
+        "forelopigFhs": 0.0,
+        "forelopigVts": 100.0,
+        "forelopig": 100.0,
+        "endelig": 100.0,
+        "oppgjor": 100.0,
+        "rapportGenerert": "2023-05-11T12:52:20",
+        "harUnderordnet": false
+      }
+    ],
+    "self": {
+      "nr": "3",
+      "href": "/2013/st/03/0301/3",
+      "hrefNavn": "/2013/st/oslo/oslo/sagene",
+      "navn": "Sagene",
+      "forelopigFhs": 0.0,
+      "forelopigVts": 100.0,
+      "forelopig": 100.0,
+      "endelig": 100.0,
+      "oppgjor": 100.0
+    },
+    "up": {
+      "nr": "0301",
+      "href": "/2013/st/03/0301",
+      "hrefNavn": "/2013/st/oslo/oslo",
+      "navn": "Oslo"
+    }
+  }
+}
