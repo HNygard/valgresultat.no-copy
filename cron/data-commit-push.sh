@@ -13,6 +13,6 @@ if [[ -n $(git status --porcelain data) ]]; then
   commit_message_summary=`./cron/commit-message.sh`
 
   git add data
-  git commit -m "[bot] Automated new date - $commit_message_summary" || echo "No changes to commit"
+  git commit -m "[bot] Automated new data - $commit_message_summary" || echo "No changes to commit"
   git push origin main || echo "Failed to push changes"
 fi
