@@ -1,0 +1,773 @@
+{
+  "id": {
+    "valgaar": "2025",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Steinkjer",
+    "nr": "5006"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2025-09-08T22:18:06",
+    "sisteStemmer": "2025-09-08T22:17:59"
+  },
+  "merknader": [],
+  "antallsb": 18228,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 13756,
+    "fhs": 7578,
+    "totalForkastede": 25,
+    "fhsForkastede": 25
+  },
+  "stemmegiving": {
+    "totalGodkjente": 14225,
+    "fhsGodkjente": 8051,
+    "totalForkastede": 1,
+    "fhsForkastede": 1
+  },
+  "frammote": {
+    "prosent": 78.0,
+    "prosentAndelFhs": 56.6
+  },
+  "opptellingsStatus": {
+    "type": "kommune",
+    "forste": {
+      "forhaandsstemmelokale": {
+        "status": "ferdig",
+        "ferdig": 3,
+        "totalt": 3,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": "ferdig",
+        "ferdig": 12,
+        "totalt": 12,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      }
+    },
+    "andre": {
+      "forhaandsstemmelokale": {
+        "status": "ferdig",
+        "ferdig": 3,
+        "totalt": 3,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": "paagaar",
+        "ferdig": 8,
+        "totalt": 12,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      }
+    },
+    "kontroll": {
+      "forhaandsstemmelokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 3,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 12,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      }
+    },
+    "oppgjor": {
+      "forhaandsstemmelokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 3,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 12,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      }
+    }
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 37.4469,
+          "fhsProsent": 40.56278,
+          "vtsProsent": 33.61111,
+          "endring": {
+            "samme": 1.97706
+          },
+          "antall": {
+            "total": 5113,
+            "fhs": 3056
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.77179,
+          "fhsProsent": 4.48633,
+          "vtsProsent": 2.89216,
+          "endring": {
+            "samme": -1.69515
+          },
+          "antall": {
+            "total": 515,
+            "fhs": 338
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.86246,
+          "fhsProsent": 7.53916,
+          "vtsProsent": 6.02941,
+          "endring": {
+            "samme": 2.13508
+          },
+          "antall": {
+            "total": 937,
+            "fhs": 568
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 17.87755,
+          "fhsProsent": 13.48553,
+          "vtsProsent": 23.28431,
+          "endring": {
+            "samme": -12.19061
+          },
+          "antall": {
+            "total": 2441,
+            "fhs": 1016
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.36224,
+          "fhsProsent": 1.12822,
+          "vtsProsent": 1.65033,
+          "endring": {
+            "samme": 0.2819
+          },
+          "antall": {
+            "total": 186,
+            "fhs": 85
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.02871,
+          "fhsProsent": 2.25644,
+          "vtsProsent": 1.74837,
+          "endring": {
+            "samme": 0.15806
+          },
+          "antall": {
+            "total": 277,
+            "fhs": 170
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.94815,
+          "fhsProsent": 1.75206,
+          "vtsProsent": 2.18954,
+          "endring": {
+            "samme": -0.28503
+          },
+          "antall": {
+            "total": 266,
+            "fhs": 132
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.94302,
+          "fhsProsent": 7.08787,
+          "vtsProsent": 6.76471,
+          "endring": {
+            "samme": -2.24346
+          },
+          "antall": {
+            "total": 948,
+            "fhs": 534
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 17.44544,
+          "fhsProsent": 17.62676,
+          "vtsProsent": 17.22222,
+          "endring": {
+            "samme": 10.7024
+          },
+          "antall": {
+            "total": 2382,
+            "fhs": 1328
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Norgesdemokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.75436,
+          "fhsProsent": 0.66366,
+          "vtsProsent": 0.86601,
+          "endring": {
+            "samme": -0.31148
+          },
+          "antall": {
+            "total": 103,
+            "fhs": 50
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DNI",
+        "navn": "Partiet DNI"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.24901,
+          "fhsProsent": 0.27874,
+          "vtsProsent": 0.21242,
+          "endring": {
+            "samme": 0.24901
+          },
+          "antall": {
+            "total": 34,
+            "fhs": 21
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FRED",
+        "navn": "Fred og Rettferdighet (FOR)"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.19774,
+          "fhsProsent": 0.1991,
+          "vtsProsent": 0.19608,
+          "endring": {
+            "samme": 0.19774
+          },
+          "antall": {
+            "total": 27,
+            "fhs": 15
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "GENP",
+        "navn": "Generasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.41014,
+          "fhsProsent": 0.37165,
+          "vtsProsent": 0.45752,
+          "endring": {
+            "samme": 0.41014
+          },
+          "antall": {
+            "total": 56,
+            "fhs": 28
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Velferd og Innovasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.17577,
+          "fhsProsent": 0.13273,
+          "vtsProsent": 0.22876,
+          "endring": {
+            "samme": -0.01999
+          },
+          "antall": {
+            "total": 24,
+            "fhs": 10
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.16449,
+          "fhsProsent": 0.98221,
+          "vtsProsent": 1.38889,
+          "endring": {
+            "samme": 0.75846
+          },
+          "antall": {
+            "total": 159,
+            "fhs": 74
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Konservativt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16845,
+          "fhsProsent": 0.21237,
+          "vtsProsent": 0.11438,
+          "endring": {
+            "samme": 0.08869
+          },
+          "antall": {
+            "total": 23,
+            "fhs": 16
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.14985,
+          "fhsProsent": 1.19458,
+          "vtsProsent": 1.09477,
+          "endring": {
+            "samme": 0.15652
+          },
+          "antall": {
+            "total": 157,
+            "fhs": 90
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.04394,
+          "fhsProsent": 0.03982,
+          "vtsProsent": 0.04902,
+          "endring": {
+            "samme": -0.00681
+          },
+          "antall": {
+            "total": 6,
+            "fhs": 3
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "antall": {
+            "total": 102,
+            "fhs": 44
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.31375,
+          "fhsProsent": 4.07486,
+          "vtsProsent": 4.60784,
+          "endring": {
+            "samme": 1.15975
+          },
+          "antall": {
+            "total": 589,
+            "fhs": 307
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "fhsProsent": 0.0,
+          "vtsProsent": 0.0,
+          "endring": {
+            "samme": -0.36253
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2025/st/17/5006/0000",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "rapportGenerert": "2025-09-07T14:50:13",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2025/st/17/5006/0001",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/steinkjer",
+        "navn": "Steinkjer",
+        "rapportGenerert": "2025-09-08T22:14:03",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2025/st/17/5006/0002",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/m%C3%A6re",
+        "navn": "Mære",
+        "rapportGenerert": "2025-09-08T21:06:06",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2025/st/17/5006/0003",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/egge",
+        "navn": "Egge",
+        "rapportGenerert": "2025-09-08T20:53:04",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2025/st/17/5006/0004",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/l%C3%B8",
+        "navn": "Lø",
+        "rapportGenerert": "2025-09-08T21:31:09",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2025/st/17/5006/0005",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/stod",
+        "navn": "Stod",
+        "rapportGenerert": "2025-09-08T21:38:07",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2025/st/17/5006/0006",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/henning",
+        "navn": "Henning",
+        "rapportGenerert": "2025-09-08T21:40:07",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2025/st/17/5006/0007",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/byafossen",
+        "navn": "Byafossen",
+        "rapportGenerert": "2025-09-08T22:15:03",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2025/st/17/5006/0008",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/beitstad",
+        "navn": "Beitstad",
+        "rapportGenerert": "2025-09-08T21:55:12",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2025/st/17/5006/0009",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/kvam",
+        "navn": "Kvam",
+        "rapportGenerert": "2025-09-08T21:36:11",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2025/st/17/5006/0010",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/ogndal",
+        "navn": "Ogndal",
+        "rapportGenerert": "2025-09-08T22:02:10",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2025/st/17/5006/0011",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/malm",
+        "navn": "Malm",
+        "rapportGenerert": "2025-09-08T22:18:06",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2025/st/17/5006/0012",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/folla",
+        "navn": "Folla",
+        "rapportGenerert": "2025-09-08T20:36:07",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "4001",
+        "href": "/2025/st/17/5006/4001",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/steinkjer+r%C3%A5dhus",
+        "navn": "Steinkjer rådhus",
+        "rapportGenerert": "2025-09-08T14:47:44",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4002",
+        "href": "/2025/st/17/5006/4002",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/steinkjer+kulturhus",
+        "navn": "Steinkjer kulturhus",
+        "rapportGenerert": "2025-09-08T14:07:38",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4003",
+        "href": "/2025/st/17/5006/4003",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/malm+samfunnshus",
+        "navn": "Malm samfunnshus",
+        "rapportGenerert": "2025-09-08T13:19:20",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "9998",
+        "href": "/2025/st/17/5006/9998",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/%C3%B8vrige+forh%C3%A5ndsstemmer",
+        "navn": "Øvrige forhåndsstemmer",
+        "rapportGenerert": "2025-09-08T15:44:56",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "9999",
+        "href": "/2025/st/17/5006/9999",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer/forh%C3%A5ndsstemmer+-+telt+etter+kl.+17+dagen+etter+valgdagen",
+        "navn": "Forhåndsstemmer - telt etter kl. 17 dagen etter valgdagen",
+        "rapportGenerert": "2025-09-07T14:50:13",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      }
+    ],
+    "self": {
+      "nr": "5006",
+      "href": "/2025/st/17/5006",
+      "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag/steinkjer",
+      "navn": "Steinkjer"
+    },
+    "up": {
+      "nr": "17",
+      "href": "/2025/st/17",
+      "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag",
+      "navn": "Nord-Trøndelag"
+    }
+  }
+}
