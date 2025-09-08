@@ -91,6 +91,7 @@ class ElectionMonitor:
         
         for attempt in range(max_retries):
             try:
+                logger.info(f"Fetching URL: {self.api_base_url}{url} (Attempt {attempt + 1})")
                 response = requests.get(f"{self.api_base_url}{url}", timeout=30)
                 response.raise_for_status()
                 return response.json()
