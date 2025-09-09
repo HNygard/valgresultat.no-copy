@@ -1,0 +1,944 @@
+{
+  "id": {
+    "valgaar": "2025",
+    "valgtype": "ST",
+    "nivaa": "kommune",
+    "navn": "Trondheim",
+    "nr": "5001"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2025-09-09T19:20:09",
+    "sisteStemmer": "2025-09-09T19:19:58"
+  },
+  "merknader": [],
+  "antallsb": 160635,
+  "mandater": {
+    "antall": 0,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 132340,
+    "fhs": 97409,
+    "totalForkastede": 73,
+    "fhsForkastede": 43
+  },
+  "stemmegiving": {
+    "totalGodkjente": 132284,
+    "fhsGodkjente": 97360,
+    "totalForkastede": 180,
+    "fhsForkastede": 118
+  },
+  "frammote": {
+    "prosent": 82.4,
+    "prosentAndelFhs": 73.6
+  },
+  "opptellingsStatus": {
+    "type": "kommune",
+    "forste": {
+      "forhaandsstemmelokale": {
+        "status": "ferdig",
+        "ferdig": 17,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": "ferdig",
+        "ferdig": 17,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1
+      }
+    },
+    "andre": {
+      "forhaandsstemmelokale": {
+        "status": "ferdig",
+        "ferdig": 17,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": "ferdig",
+        "ferdig": 17,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": "ferdig",
+        "ferdig": 1,
+        "totalt": 1
+      }
+    },
+    "kontroll": {
+      "forhaandsstemmelokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      }
+    },
+    "oppgjor": {
+      "forhaandsstemmelokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "valgtingslokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 17,
+        "tellesIkke": 0
+      },
+      "ovrige-fhs": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1,
+        "tellesIkke": 0
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 1
+      }
+    }
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 32.27291,
+          "fhsProsent": 31.96935,
+          "vtsProsent": 33.12214,
+          "endring": {
+            "samme": 1.94915
+          },
+          "antall": {
+            "total": 42364,
+            "fhs": 30915
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 8.61825,
+          "fhsProsent": 9.06083,
+          "vtsProsent": 7.38008,
+          "endring": {
+            "samme": -2.89477
+          },
+          "antall": {
+            "total": 11313,
+            "fhs": 8762
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 6.93848,
+          "fhsProsent": 7.04846,
+          "vtsProsent": 6.63079,
+          "endring": {
+            "samme": 0.05119
+          },
+          "antall": {
+            "total": 9108,
+            "fhs": 6816
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.808,
+          "fhsProsent": 2.40636,
+          "vtsProsent": 3.93161,
+          "endring": {
+            "samme": -4.86846
+          },
+          "antall": {
+            "total": 3686,
+            "fhs": 2327
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 2.12695,
+          "fhsProsent": 2.05477,
+          "vtsProsent": 2.32888,
+          "endring": {
+            "samme": 0.27415
+          },
+          "antall": {
+            "total": 2792,
+            "fhs": 1987
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 7.56696,
+          "fhsProsent": 7.69167,
+          "vtsProsent": 7.21808,
+          "endring": {
+            "samme": 1.02754
+          },
+          "antall": {
+            "total": 9933,
+            "fhs": 7438
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.60965,
+          "fhsProsent": 4.41976,
+          "vtsProsent": 5.14089,
+          "endring": {
+            "samme": -1.12642
+          },
+          "antall": {
+            "total": 6051,
+            "fhs": 4274
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 14.04836,
+          "fhsProsent": 13.97282,
+          "vtsProsent": 14.25968,
+          "endring": {
+            "samme": -4.27353
+          },
+          "antall": {
+            "total": 18441,
+            "fhs": 13512
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 17.31572,
+          "fhsProsent": 17.80935,
+          "vtsProsent": 15.93473,
+          "endring": {
+            "samme": 9.91205
+          },
+          "antall": {
+            "total": 22730,
+            "fhs": 17222
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Norgesdemokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.58963,
+          "fhsProsent": 0.47672,
+          "vtsProsent": 0.90551,
+          "endring": {
+            "samme": -0.1303
+          },
+          "antall": {
+            "total": 774,
+            "fhs": 461
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DNI",
+        "navn": "Partiet DNI"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.12113,
+          "fhsProsent": 0.12099,
+          "vtsProsent": 0.12151,
+          "endring": {
+            "samme": 0.12113
+          },
+          "antall": {
+            "total": 159,
+            "fhs": 117
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FRED",
+        "navn": "Fred og Rettferdighet (FOR)"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.25368,
+          "fhsProsent": 0.24405,
+          "vtsProsent": 0.28062,
+          "endring": {
+            "samme": 0.25368
+          },
+          "antall": {
+            "total": 333,
+            "fhs": 236
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "GENP",
+        "navn": "Generasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.51498,
+          "fhsProsent": 0.49844,
+          "vtsProsent": 0.56125,
+          "endring": {
+            "samme": 0.51498
+          },
+          "antall": {
+            "total": 676,
+            "fhs": 482
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Velferd og Innovasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.18664,
+          "fhsProsent": 0.19131,
+          "vtsProsent": 0.17358,
+          "endring": {
+            "samme": 0.00645
+          },
+          "antall": {
+            "total": 245,
+            "fhs": 185
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.37404,
+          "fhsProsent": 0.34746,
+          "vtsProsent": 0.44842,
+          "endring": {
+            "samme": 0.15047
+          },
+          "antall": {
+            "total": 491,
+            "fhs": 336
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Konservativt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.18588,
+          "fhsProsent": 0.15615,
+          "vtsProsent": 0.26905,
+          "endring": {
+            "samme": 0.05407
+          },
+          "antall": {
+            "total": 244,
+            "fhs": 151
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 1.35067,
+          "fhsProsent": 1.42293,
+          "vtsProsent": 1.14853,
+          "endring": {
+            "samme": -0.47292
+          },
+          "antall": {
+            "total": 1773,
+            "fhs": 1376
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.11808,
+          "fhsProsent": 0.10858,
+          "vtsProsent": 0.14465,
+          "endring": {
+            "samme": -0.13886
+          },
+          "antall": {
+            "total": 155,
+            "fhs": 105
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "antall": {
+            "total": 1072,
+            "fhs": 707
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.69473,
+          "fhsProsent": 3.56663,
+          "vtsProsent": 4.05312,
+          "endring": {
+            "samme": -0.0509
+          },
+          "antall": {
+            "total": 4850,
+            "fhs": 3449
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "fhsProsent": 0.0,
+          "vtsProsent": 0.0,
+          "endring": {
+            "samme": -0.4096
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "0000",
+        "href": "/2025/st/16/5001/0000",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/uoppgitt+krets",
+        "navn": "Uoppgitt krets",
+        "rapportGenerert": "2025-09-09T19:03:08",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0001",
+        "href": "/2025/st/16/5001/0001",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/blussuvoll",
+        "navn": "Blussuvoll",
+        "rapportGenerert": "2025-09-09T16:12:15",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0002",
+        "href": "/2025/st/16/5001/0002",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/charlottenlund",
+        "navn": "Charlottenlund",
+        "rapportGenerert": "2025-09-09T11:07:17",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0003",
+        "href": "/2025/st/16/5001/0003",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/flat%C3%A5sen",
+        "navn": "Flatåsen",
+        "rapportGenerert": "2025-09-09T11:08:18",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0004",
+        "href": "/2025/st/16/5001/0004",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/hoeggen",
+        "navn": "Hoeggen",
+        "rapportGenerert": "2025-09-09T11:10:17",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0005",
+        "href": "/2025/st/16/5001/0005",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/huseby",
+        "navn": "Huseby",
+        "rapportGenerert": "2025-09-09T12:03:19",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0006",
+        "href": "/2025/st/16/5001/0006",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/kl%C3%A6bu",
+        "navn": "Klæbu",
+        "rapportGenerert": "2025-09-09T11:12:16",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0007",
+        "href": "/2025/st/16/5001/0007",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/lade",
+        "navn": "Lade",
+        "rapportGenerert": "2025-09-09T13:11:17",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0008",
+        "href": "/2025/st/16/5001/0008",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/midtbyen",
+        "navn": "Midtbyen",
+        "rapportGenerert": "2025-09-09T16:18:15",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0009",
+        "href": "/2025/st/16/5001/0009",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/markaplassen",
+        "navn": "Markaplassen",
+        "rapportGenerert": "2025-09-09T11:44:16",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0010",
+        "href": "/2025/st/16/5001/0010",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/rosten",
+        "navn": "Rosten",
+        "rapportGenerert": "2025-09-09T11:19:18",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0011",
+        "href": "/2025/st/16/5001/0011",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/selsbakk",
+        "navn": "Selsbakk",
+        "rapportGenerert": "2025-09-09T11:38:19",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0012",
+        "href": "/2025/st/16/5001/0012",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sjetne",
+        "navn": "Sjetne",
+        "rapportGenerert": "2025-09-09T13:16:15",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0013",
+        "href": "/2025/st/16/5001/0013",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/spongdal",
+        "navn": "Spongdal",
+        "rapportGenerert": "2025-09-09T11:39:16",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0014",
+        "href": "/2025/st/16/5001/0014",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sunnland",
+        "navn": "Sunnland",
+        "rapportGenerert": "2025-09-09T13:18:18",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0015",
+        "href": "/2025/st/16/5001/0015",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sverresborg",
+        "navn": "Sverresborg",
+        "rapportGenerert": "2025-09-09T13:19:18",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0016",
+        "href": "/2025/st/16/5001/0016",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ugla",
+        "navn": "Ugla",
+        "rapportGenerert": "2025-09-09T13:20:17",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "0017",
+        "href": "/2025/st/16/5001/0017",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/%C3%A5sheim",
+        "navn": "Åsheim",
+        "rapportGenerert": "2025-09-09T13:21:15",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "4001",
+        "href": "/2025/st/16/5001/4001",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/hovedbiblioteket",
+        "navn": "Hovedbiblioteket",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4002",
+        "href": "/2025/st/16/5001/4002",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/buran+bibliotek",
+        "navn": "Buran bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4003",
+        "href": "/2025/st/16/5001/4003",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/by%C3%A5sen+bibliotek",
+        "navn": "Byåsen bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4004",
+        "href": "/2025/st/16/5001/4004",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/heimdal+bibliotek",
+        "navn": "Heimdal bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4005",
+        "href": "/2025/st/16/5001/4005",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/kl%C3%A6bu+bibliotek",
+        "navn": "Klæbu bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4006",
+        "href": "/2025/st/16/5001/4006",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/moholt+bibliotek",
+        "navn": "Moholt bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4007",
+        "href": "/2025/st/16/5001/4007",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ranheim+bibliotek",
+        "navn": "Ranheim bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4008",
+        "href": "/2025/st/16/5001/4008",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/risvollan+bibliotek",
+        "navn": "Risvollan bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4009",
+        "href": "/2025/st/16/5001/4009",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/saupstad+bibliotek",
+        "navn": "Saupstad bibliotek",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4010",
+        "href": "/2025/st/16/5001/4010",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/valgbod+p%C3%A5+trondheim+torg",
+        "navn": "Valgbod på Trondheim Torg",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4011",
+        "href": "/2025/st/16/5001/4011",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/city+syd",
+        "navn": "City Syd",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4012",
+        "href": "/2025/st/16/5001/4012",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/city+lade",
+        "navn": "City Lade",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4013",
+        "href": "/2025/st/16/5001/4013",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/sirkus+shopping",
+        "navn": "Sirkus Shopping",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4014",
+        "href": "/2025/st/16/5001/4014",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/solsiden+kj%C3%B8pesenter",
+        "navn": "Solsiden kjøpesenter",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4015",
+        "href": "/2025/st/16/5001/4015",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ntnu+gl%C3%B8shaugen%2C+elektrobygget",
+        "navn": "NTNU Gløshaugen, Elektrobygget",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4016",
+        "href": "/2025/st/16/5001/4016",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/ntnu+dragvoll",
+        "navn": "NTNU Dragvoll",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "4017",
+        "href": "/2025/st/16/5001/4017",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/st.+olavs+hospital%2C+kunnskapssenteret",
+        "navn": "St. Olavs hospital, Kunnskapssenteret",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": true
+      },
+      {
+        "nr": "9998",
+        "href": "/2025/st/16/5001/9998",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/%C3%B8vrige+forh%C3%A5ndsstemmer",
+        "navn": "Øvrige forhåndsstemmer",
+        "rapportGenerert": "2025-09-09T10:36:33",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      },
+      {
+        "nr": "9999",
+        "href": "/2025/st/16/5001/9999",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim/forh%C3%A5ndsstemmer+-+telt+etter+kl.+17+dagen+etter+valgdagen",
+        "navn": "Forhåndsstemmer - telt etter kl. 17 dagen etter valgdagen",
+        "rapportGenerert": "2025-09-09T19:20:09",
+        "harUnderordnet": false,
+        "forhaandsstemmelokale": false
+      }
+    ],
+    "self": {
+      "nr": "5001",
+      "href": "/2025/st/16/5001",
+      "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag/trondheim",
+      "navn": "Trondheim"
+    },
+    "up": {
+      "nr": "16",
+      "href": "/2025/st/16",
+      "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag",
+      "navn": "Sør-Trøndelag"
+    }
+  }
+}
