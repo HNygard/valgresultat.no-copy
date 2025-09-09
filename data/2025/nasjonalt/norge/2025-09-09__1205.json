@@ -1,0 +1,1110 @@
+{
+  "id": {
+    "valgaar": "2025",
+    "valgtype": "ST",
+    "nivaa": "land",
+    "navn": "norge",
+    "nr": "0"
+  },
+  "tidspunkt": {
+    "rapportGenerert": "2025-09-09T14:05:11",
+    "sisteStemmer": "2025-09-09T14:05:03"
+  },
+  "merknader": [],
+  "antallsb": 4058875,
+  "mandater": {
+    "antall": 169,
+    "endring": 0
+  },
+  "stemmer": {
+    "total": 3108810,
+    "fhs": 1907053,
+    "totalForkastede": 4034,
+    "fhsForkastede": 3012
+  },
+  "stemmegiving": {
+    "totalGodkjente": 3202614,
+    "fhsGodkjente": 2001311,
+    "totalForkastede": 2337,
+    "fhsForkastede": 691
+  },
+  "frammote": {
+    "prosent": 78.9,
+    "prosentAndelFhs": 62.5
+  },
+  "opptellingsStatus": {
+    "type": "land",
+    "forste": {
+      "forhaandsstemmelokale": {
+        "status": "paagaar",
+        "ferdig": 343,
+        "totalt": 357
+      },
+      "valgtingslokale": {
+        "status": "ferdig",
+        "ferdig": 357,
+        "totalt": 357
+      },
+      "ovrige-fhs": {
+        "status": "paagaar",
+        "ferdig": 347,
+        "totalt": 357
+      },
+      "ovrige-vts": {
+        "status": "paagaar",
+        "ferdig": 260,
+        "totalt": 357
+      },
+      "teltEtter17": {
+        "status": "paagaar",
+        "ferdig": 10,
+        "totalt": 357
+      }
+    },
+    "andre": {
+      "forhaandsstemmelokale": {
+        "status": "paagaar",
+        "ferdig": 322,
+        "totalt": 357
+      },
+      "valgtingslokale": {
+        "status": "paagaar",
+        "ferdig": 302,
+        "totalt": 357
+      },
+      "ovrige-fhs": {
+        "status": "paagaar",
+        "ferdig": 337,
+        "totalt": 357
+      },
+      "ovrige-vts": {
+        "status": "paagaar",
+        "ferdig": 233,
+        "totalt": 357
+      },
+      "teltEtter17": {
+        "status": "paagaar",
+        "ferdig": 5,
+        "totalt": 357
+      }
+    },
+    "kontroll": {
+      "forhaandsstemmelokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 356
+      },
+      "valgtingslokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 356
+      },
+      "ovrige-fhs": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 356
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 356
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 356
+      }
+    },
+    "oppgjor": {
+      "forhaandsstemmelokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 357
+      },
+      "valgtingslokale": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 357
+      },
+      "ovrige-fhs": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 357
+      },
+      "ovrige-vts": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 357
+      },
+      "teltEtter17": {
+        "status": null,
+        "ferdig": 0,
+        "totalt": 357
+      }
+    }
+  },
+  "partier": [
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "A",
+        "navn": "Arbeiderpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 28.17387,
+          "fhsProsent": 28.04754,
+          "vtsProsent": 28.37515,
+          "endring": {
+            "samme": 1.92237
+          },
+          "antall": {
+            "total": 868918,
+            "fhs": 531460
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 53,
+          "endring": 5,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SV",
+        "navn": "SV - Sosialistisk Venstreparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.5154,
+          "fhsProsent": 5.77042,
+          "vtsProsent": 5.10909,
+          "endring": {
+            "samme": -2.12698
+          },
+          "antall": {
+            "total": 170102,
+            "fhs": 109341
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 9,
+          "endring": -4,
+          "utjevningAntall": 4,
+          "utjevning": {
+            "kvotient": 0.16006777596865363,
+            "mandatrang": 16
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "RØDT",
+        "navn": "Rødt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.31953,
+          "fhsProsent": 5.45604,
+          "vtsProsent": 5.10202,
+          "endring": {
+            "samme": 0.59694
+          },
+          "antall": {
+            "total": 164061,
+            "fhs": 103384
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 9,
+          "endring": 1,
+          "utjevningAntall": 5,
+          "utjevning": {
+            "kvotient": 0.37251092763477417,
+            "mandatrang": 11
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "SP",
+        "navn": "Senterpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 5.62811,
+          "fhsProsent": 4.36735,
+          "vtsProsent": 7.63685,
+          "endring": {
+            "samme": -7.8751
+          },
+          "antall": {
+            "total": 173578,
+            "fhs": 82755
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 9,
+          "endring": -19,
+          "utjevningAntall": 1,
+          "utjevning": {
+            "kvotient": 0.6381247391904471,
+            "mandatrang": 1
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "KRF",
+        "navn": "Kristelig Folkeparti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.2187,
+          "fhsProsent": 4.00944,
+          "vtsProsent": 4.55211,
+          "endring": {
+            "samme": 0.42054
+          },
+          "antall": {
+            "total": 130110,
+            "fhs": 75973
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 7,
+          "endring": 4,
+          "utjevningAntall": 4,
+          "utjevning": {
+            "kvotient": 0.24921181149415814,
+            "mandatrang": 14
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "MDG",
+        "navn": "Miljøpartiet De Grønne"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.65723,
+          "fhsProsent": 4.81187,
+          "vtsProsent": 4.41085,
+          "endring": {
+            "samme": 0.71489
+          },
+          "antall": {
+            "total": 143635,
+            "fhs": 91178
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 7,
+          "endring": 4,
+          "utjevningAntall": 3,
+          "utjevning": {
+            "kvotient": 0.06087210227574134,
+            "mandatrang": 19
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "V",
+        "navn": "Venstre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 3.65873,
+          "fhsProsent": 3.55758,
+          "vtsProsent": 3.8199,
+          "endring": {
+            "samme": -0.94664
+          },
+          "antall": {
+            "total": 112840,
+            "fhs": 67411
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 3,
+          "endring": -5,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "H",
+        "navn": "Høyre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 14.63283,
+          "fhsProsent": 14.96284,
+          "vtsProsent": 14.10702,
+          "endring": {
+            "samme": -5.71831
+          },
+          "antall": {
+            "total": 451295,
+            "fhs": 283524
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 24,
+          "endring": -12,
+          "utjevningAntall": 2,
+          "utjevning": {
+            "kvotient": 0.45750020571052413,
+            "mandatrang": 8
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 1,
+        "partikode": "FRP",
+        "navn": "Fremskrittspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 23.86906,
+          "fhsProsent": 24.91126,
+          "vtsProsent": 22.20853,
+          "endring": {
+            "samme": 12.25872
+          },
+          "antall": {
+            "total": 736152,
+            "fhs": 472032
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 48,
+          "endring": 27,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DEMN",
+        "navn": "Norgesdemokratene"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.72419,
+          "fhsProsent": 0.59873,
+          "vtsProsent": 0.92409,
+          "endring": {
+            "samme": -0.41743
+          },
+          "antall": {
+            "total": 22335,
+            "fhs": 11345
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "DNI",
+        "navn": "Partiet DNI"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.16481,
+          "fhsProsent": 0.1635,
+          "vtsProsent": 0.16691,
+          "endring": {
+            "samme": 0.16481
+          },
+          "antall": {
+            "total": 5083,
+            "fhs": 3098
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "ENSOM",
+        "navn": "Ensomhetspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.02279,
+          "fhsProsent": 0.02195,
+          "vtsProsent": 0.02413,
+          "endring": {
+            "samme": 0.02279
+          },
+          "antall": {
+            "total": 703,
+            "fhs": 416
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "FRED",
+        "navn": "Fred og Rettferdighet (FOR)"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.29512,
+          "fhsProsent": 0.28562,
+          "vtsProsent": 0.31027,
+          "endring": {
+            "samme": 0.29512
+          },
+          "antall": {
+            "total": 9102,
+            "fhs": 5412
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "GENP",
+        "navn": "Generasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.66421,
+          "fhsProsent": 0.62406,
+          "vtsProsent": 0.72818,
+          "endring": {
+            "samme": 0.66421
+          },
+          "antall": {
+            "total": 20485,
+            "fhs": 11825
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "HELSE",
+        "navn": "Velferd og Innovasjonspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.15301,
+          "fhsProsent": 0.13822,
+          "vtsProsent": 0.17658,
+          "endring": {
+            "samme": -0.06447
+          },
+          "antall": {
+            "total": 4719,
+            "fhs": 2619
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "INP",
+        "navn": "Industri- og Næringspartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.5847,
+          "fhsProsent": 0.51846,
+          "vtsProsent": 0.69025,
+          "endring": {
+            "samme": 0.24857
+          },
+          "antall": {
+            "total": 18033,
+            "fhs": 9824
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "KRISTNE",
+        "navn": "Konservativt"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.48584,
+          "fhsProsent": 0.47903,
+          "vtsProsent": 0.49669,
+          "endring": {
+            "samme": 0.13573
+          },
+          "antall": {
+            "total": 14984,
+            "fhs": 9077
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "NKP",
+        "navn": "Norges Kommunistiske Parti"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.00159,
+          "fhsProsent": 0.00132,
+          "vtsProsent": 0.00202,
+          "endring": {
+            "samme": -0.0085
+          },
+          "antall": {
+            "total": 49,
+            "fhs": 25
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PP",
+        "navn": "Pensjonistpartiet"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.84523,
+          "fhsProsent": 0.88783,
+          "vtsProsent": 0.77737,
+          "endring": {
+            "samme": 0.20834
+          },
+          "antall": {
+            "total": 26068,
+            "fhs": 16823
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 2,
+        "partikode": "PS",
+        "navn": "Partiet Sentrum"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.17574,
+          "fhsProsent": 0.15758,
+          "vtsProsent": 0.20466,
+          "endring": {
+            "samme": -0.08685
+          },
+          "antall": {
+            "total": 5420,
+            "fhs": 2986
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "BLANKE",
+        "navn": "Blanke"
+      },
+      "stemmer": {
+        "resultat": {
+          "antall": {
+            "total": 24683,
+            "fhs": 12199
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "PASF",
+        "navn": "Pasientfokus"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.13304,
+          "fhsProsent": 0.15236,
+          "vtsProsent": 0.10225,
+          "endring": {
+            "samme": 0.13304
+          },
+          "antall": {
+            "total": 4103,
+            "fhs": 2887
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 3,
+        "partikode": "RUS",
+        "navn": "Redd Ullevål sykehus"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.07626,
+          "fhsProsent": 0.077,
+          "vtsProsent": 0.07509,
+          "endring": {
+            "samme": 0.07626
+          },
+          "antall": {
+            "total": 2352,
+            "fhs": 1459
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre",
+        "navn": "Andre"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 4.32654,
+          "fhsProsent": 4.10565,
+          "vtsProsent": 4.67849,
+          "endring": {
+            "samme": 0.75357
+          },
+          "antall": {
+            "total": 133436,
+            "fhs": 77796
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": 0,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    },
+    {
+      "id": {
+        "partikategori": 0,
+        "partikode": "Andre2",
+        "navn": "Andre2"
+      },
+      "stemmer": {
+        "resultat": {
+          "prosent": 0.0,
+          "fhsProsent": 0.0,
+          "vtsProsent": 0.0,
+          "endring": {
+            "samme": -0.61806
+          },
+          "antall": {
+            "total": 0,
+            "fhs": 0
+          }
+        }
+      },
+      "mandater": {
+        "resultat": {
+          "antall": 0,
+          "endring": -1,
+          "utjevningAntall": 0,
+          "utjevning": {
+            "kvotient": null,
+            "mandatrang": null
+          }
+        }
+      }
+    }
+  ],
+  "_links": {
+    "related": [
+      {
+        "nr": "03",
+        "href": "/2025/st/03",
+        "hrefNavn": "/2025/st/oslo",
+        "navn": "Oslo",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "04",
+        "href": "/2025/st/04",
+        "hrefNavn": "/2025/st/hedmark",
+        "navn": "Hedmark",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "05",
+        "href": "/2025/st/05",
+        "hrefNavn": "/2025/st/oppland",
+        "navn": "Oppland",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "09",
+        "href": "/2025/st/09",
+        "hrefNavn": "/2025/st/aust-agder",
+        "navn": "Aust-Agder",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "10",
+        "href": "/2025/st/10",
+        "hrefNavn": "/2025/st/vest-agder",
+        "navn": "Vest-Agder",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "11",
+        "href": "/2025/st/11",
+        "hrefNavn": "/2025/st/rogaland",
+        "navn": "Rogaland",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "12",
+        "href": "/2025/st/12",
+        "hrefNavn": "/2025/st/hordaland",
+        "navn": "Hordaland",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "14",
+        "href": "/2025/st/14",
+        "hrefNavn": "/2025/st/sogn+og+fjordane",
+        "navn": "Sogn og Fjordane",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "15",
+        "href": "/2025/st/15",
+        "hrefNavn": "/2025/st/m%C3%B8re+og+romsdal",
+        "navn": "Møre og Romsdal",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "16",
+        "href": "/2025/st/16",
+        "hrefNavn": "/2025/st/s%C3%B8r-tr%C3%B8ndelag",
+        "navn": "Sør-Trøndelag",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "17",
+        "href": "/2025/st/17",
+        "hrefNavn": "/2025/st/nord-tr%C3%B8ndelag",
+        "navn": "Nord-Trøndelag",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "18",
+        "href": "/2025/st/18",
+        "hrefNavn": "/2025/st/nordland",
+        "navn": "Nordland",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "31",
+        "href": "/2025/st/31",
+        "hrefNavn": "/2025/st/%C3%B8stfold",
+        "navn": "Østfold",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "32",
+        "href": "/2025/st/32",
+        "hrefNavn": "/2025/st/akershus",
+        "navn": "Akershus",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "33",
+        "href": "/2025/st/33",
+        "hrefNavn": "/2025/st/buskerud",
+        "navn": "Buskerud",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "39",
+        "href": "/2025/st/39",
+        "hrefNavn": "/2025/st/vestfold",
+        "navn": "Vestfold",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "40",
+        "href": "/2025/st/40",
+        "hrefNavn": "/2025/st/telemark",
+        "navn": "Telemark",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "55",
+        "href": "/2025/st/55",
+        "hrefNavn": "/2025/st/troms+romsa",
+        "navn": "Troms Romsa",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      },
+      {
+        "nr": "56",
+        "href": "/2025/st/56",
+        "hrefNavn": "/2025/st/finnmark+finnm%C3%A1rku",
+        "navn": "Finnmark Finnmárku",
+        "rapportGenerert": "2025-09-09T14:05:11",
+        "harUnderordnet": true
+      }
+    ],
+    "self": {
+      "nr": "0",
+      "href": "/2025/st",
+      "hrefNavn": "/2025/st",
+      "navn": "norge"
+    },
+    "up": {
+      "nr": null,
+      "href": "/2025",
+      "hrefNavn": "/2025",
+      "navn": null
+    }
+  }
+}
