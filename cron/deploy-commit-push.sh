@@ -31,8 +31,9 @@ if [ "$LOCAL_HASH" != "$REMOTE_HASH" ]; then
   docker compose pull
 
   # Restart all services
-  echo "[$(date)] Restarting services..."
-  docker compose up -d
+  echo "[$(date)] Not starting service as it's disabled until next election..."
+  #echo "[$(date)] Restarting services..."
+  #docker compose up -d
 
   echo "[$(date)] Deployment completed."
 fi
