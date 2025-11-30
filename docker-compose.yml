@@ -10,5 +10,5 @@ services:
       - POLL_INTERVAL_MINUTES=15
     volumes:
       - ./data:/data
-    restart: unless-stopped
+    #restart: unless-stopped
 
